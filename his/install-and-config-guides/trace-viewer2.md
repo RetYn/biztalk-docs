@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 82157c04-620d-4671-8f91-1bf82f6b80cf
 caps.latest.revision: 2
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Trace Viewer

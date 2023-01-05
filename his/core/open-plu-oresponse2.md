@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 5955d0a0-92ee-4766-bac2-2950dc85b490
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Open(PLU) OResponse

@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: cf415108-327d-4304-ac9c-9edcb875b256
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Open(PLU) OConfirm

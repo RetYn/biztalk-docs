@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: b86aae88-0f9d-44f9-a625-98bc1bd01dd7
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Data Access Tool

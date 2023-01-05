@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 64e8404b-86df-4238-b0e8-09165e331bfe
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # SAdapterInGroup Members

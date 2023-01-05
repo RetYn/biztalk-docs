@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 704c7ad1-7e68-42af-b2ae-26e016cd6937
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # RECEIVE_ALLOCATE_EX

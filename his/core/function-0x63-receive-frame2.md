@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 53e6ef02-66fd-4939-a4ba-6c718e07a178
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Function 0x63: Receive Frame

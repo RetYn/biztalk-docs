@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 39894280-560d-4416-ba71-30e82eef1ad5
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # ISSOMapping.ExternalUserName Property

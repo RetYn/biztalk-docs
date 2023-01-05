@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: f605a62d-29b9-4465-be78-6554e9f11e5a
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Master Secret Server

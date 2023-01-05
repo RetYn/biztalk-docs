@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 39014ef6-b184-4681-b080-e07174c1c713
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # PLU Session

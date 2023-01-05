@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: dbc6102a-3298-4811-bf0d-b1d5802e8021
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Session Support

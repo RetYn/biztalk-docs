@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: cf01f3f6-f1d0-4495-9829-88926ddd1199
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # How To Determine Who Initiated a Transaction

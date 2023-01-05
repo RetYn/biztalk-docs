@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 6449c984-5f07-4958-9707-782d5340eb4c
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Support for LUA Single Sign-On

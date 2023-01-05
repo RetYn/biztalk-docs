@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 215a9ec0-bdd4-4248-8082-ba5ed835964b
 caps.latest.revision: 5
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Enterprise Single Sign-on  Programmer's Reference

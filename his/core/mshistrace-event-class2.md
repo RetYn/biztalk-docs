@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 498cfa09-f034-410a-b004-408ffad86066
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # MsHisTrace_Event Class

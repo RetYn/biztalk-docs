@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 2b13acbe-6287-432e-9950-c0c13e87aeb2
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Converting Data Types from RPG to OS/400 COBOL

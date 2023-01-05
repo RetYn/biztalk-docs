@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 80bca9d2-7359-4b9c-b7bf-b381bc0db835
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Support for ODBC 2 Core Functions

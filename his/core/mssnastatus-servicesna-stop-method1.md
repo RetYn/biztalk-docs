@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: b93350fe-2846-40c8-97d0-9f192894abbf
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # MsSnaStatus_ServiceSna.Stop Method

@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 36f95210-aac3-425d-ab27-cc7822921613
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # ISSOAdmin.UpdateApplication Method

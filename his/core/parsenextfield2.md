@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 7c2ae562-9c1c-4fe1-812d-cbcf1b397226
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # ParseNextField

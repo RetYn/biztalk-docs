@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: b64e0083-bff1-431a-9828-3af6adcc6f59
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Configuring Certificates

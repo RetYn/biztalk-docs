@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 13212873-293f-4fbf-a192-87b9cf945e7e
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # APPC Extensions for the Windows Environment

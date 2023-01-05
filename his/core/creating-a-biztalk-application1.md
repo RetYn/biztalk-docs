@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: f2044943-b2ef-4407-be1a-500fc581e76a
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Creating a BizTalk Application

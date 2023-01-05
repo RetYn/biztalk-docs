@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 3be483f8-2617-459e-9081-aab886c75d93
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # How to Create an Affiliate Application

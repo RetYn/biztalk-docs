@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 0ce36f74-8860-466d-8f18-3f0d3621d00e
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Icom3270.findFieldData Method

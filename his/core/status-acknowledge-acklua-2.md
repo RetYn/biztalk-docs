@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 2f34ef80-2f99-455b-b9bb-666e5ba2e8c6
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Status-Acknowledge(ACKLUA)

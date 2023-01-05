@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: f98928e3-d11a-4cc9-88bf-4550980762cb
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # MC_PREPARE_TO_RECEIVE

@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: c0d2859a-47b2-4daf-aa53-b83ac30c618c
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Host Integration Server 5250 (AS/400) Connectivity

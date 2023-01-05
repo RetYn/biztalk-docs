@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: b514b686-71fe-4693-8577-2739e1dc19d2
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # ISSOAdmin.CreateFieldInfo Method

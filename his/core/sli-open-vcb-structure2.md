@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 48a259fa-cd88-41e3-acd7-a489f8872f7f
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # SLI_OPEN VCB Structure

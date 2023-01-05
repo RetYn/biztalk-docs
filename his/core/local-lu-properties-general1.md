@@ -13,7 +13,7 @@ f1_keywords:
 ms.assetid: 7b4087aa-b3d8-4531-86a4-03c257457151
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Local LU Properties: General

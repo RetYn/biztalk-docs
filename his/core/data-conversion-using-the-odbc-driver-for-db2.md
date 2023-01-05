@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 9148450a-f72f-45ed-8041-08318bf781ef
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Data Conversion Using the ODBC Driver for DB2

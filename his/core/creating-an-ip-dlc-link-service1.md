@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: e123f9b6-2f95-4173-9c0f-0c7db185e9b1
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Creating an IP-DLC Link Service

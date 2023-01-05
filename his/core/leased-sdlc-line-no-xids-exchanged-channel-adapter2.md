@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 4d7d61d4-b66c-466d-8e57-3aabcbc931fe
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Leased SDLC Line (No XIDs Exchanged), Channel Adapter

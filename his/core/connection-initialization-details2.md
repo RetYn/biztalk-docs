@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 143e294d-904a-44d7-a50b-3002cbfc45dc
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Connection Initialization Details

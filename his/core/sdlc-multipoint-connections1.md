@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 88ed495b-38dc-4089-8f10-e46f25e91c90
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # SDLC Multipoint Connections

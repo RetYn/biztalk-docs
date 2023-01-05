@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: fc097367-936c-4e47-bd1a-43176c7c5a2d
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Microsoft Host Integration Server TN3270 Emulator

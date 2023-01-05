@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 58fb9f1d-6814-477a-8e0b-8004cc9a872b
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Base/DMOD and SNALink Entry Points

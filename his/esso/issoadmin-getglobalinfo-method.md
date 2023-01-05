@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 87e993cf-6a4c-4535-b858-44e23a933806
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # ISSOAdmin.GetGlobalInfo Method

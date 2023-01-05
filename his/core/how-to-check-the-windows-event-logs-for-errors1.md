@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: f68fae1d-f19a-46b7-8ab3-6922e1043f7a
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # How to Check the Windows Event Logs for Errors

@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 47ded631-3bc0-47fa-8a36-925d5837f5b3
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Structures Shortcut Menu

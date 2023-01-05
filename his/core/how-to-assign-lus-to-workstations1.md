@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 8c5666a4-ea06-447f-94ee-285dda6a2927
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # How to Assign LUs to Workstations

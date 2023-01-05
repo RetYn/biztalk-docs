@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 3526c3bc-fb1e-4378-b1af-3492bc70a0e7
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # 3270 Terminal Access

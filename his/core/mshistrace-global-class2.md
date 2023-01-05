@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 8405e56a-f83b-4fbc-b8f8-7aa901629197
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # MsHisTrace_Global Class

@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: b28b80fd-07f5-4ab5-8cd8-20ab20728af3
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # .NET Server Library Wizard

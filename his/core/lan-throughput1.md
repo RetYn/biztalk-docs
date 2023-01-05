@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: ac1a6453-dac9-45e8-b858-9576343a7485
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # LAN Throughput

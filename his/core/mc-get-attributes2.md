@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 649e744b-6d51-474c-9845-c923feb2145b
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # MC_GET_ATTRIBUTES

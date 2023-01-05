@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: be4d1a64-6733-4740-b850-f9daa3e140bb
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Initialization (I/O Request Packets)

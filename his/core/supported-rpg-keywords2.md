@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 92da4efc-cdd2-4625-bb05-2631569e90d5
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Supported RPG Keywords

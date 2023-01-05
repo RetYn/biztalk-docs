@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 067a6382-eb6e-4d34-880a-0602411032dd
 caps.latest.revision: 11
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # What's New in HIS 2013

@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: e5d10141-8df8-48b4-8e77-8789491f600b
 caps.latest.revision: 5
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Administering Password Synchronization

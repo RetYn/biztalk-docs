@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 69cd51f0-5281-4f26-b07e-55950c722d37
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Localities and DMODs (SNADIS)

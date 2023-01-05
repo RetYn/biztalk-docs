@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 68392a46-10eb-4658-b625-e5ba21c568f0
 caps.latest.revision: 2
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Static SQL Package XML

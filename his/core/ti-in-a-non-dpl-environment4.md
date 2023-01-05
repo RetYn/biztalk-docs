@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 2b02b2ae-0488-47bd-8803-641107d31001
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Transaction Integrator (TI) in a Non-DPL Environment

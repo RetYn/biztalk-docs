@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 9242ee90-114c-4d99-9cd5-7e889e58ae7e
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Error Codes for Open(SSCP) Error Response

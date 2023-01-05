@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: a7d5f688-e365-4295-998d-f342352cb1c2
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Creating and Configuring Connections

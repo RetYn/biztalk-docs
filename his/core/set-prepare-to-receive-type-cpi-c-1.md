@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: c4b8a136-8871-49a3-a6bd-ef2daf0333f6
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Set_Prepare_To_Receive_Type (CPI-C)

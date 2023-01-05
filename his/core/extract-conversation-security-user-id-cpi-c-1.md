@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: ce2941e6-aaf7-498e-b30c-64ac322059f3
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Extract_Conversation_Security_User_ID (CPI-C)

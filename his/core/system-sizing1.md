@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 60923a23-f0af-4593-8559-c862ca377715
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # System Sizing

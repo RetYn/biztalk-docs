@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: c28025fa-c79d-4d30-8829-23e6c52d6761
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Building Connection Strings

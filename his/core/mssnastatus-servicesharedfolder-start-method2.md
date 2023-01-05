@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 3f395ed4-8da6-4aa5-afc2-686de733accf
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # MsSnaStatus_ServiceSharedFolder.Start Method

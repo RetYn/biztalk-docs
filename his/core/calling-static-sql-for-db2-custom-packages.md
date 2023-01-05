@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: fe07d0e6-95e8-4da3-aff7-a3042bd70be5
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Calling Static SQL for DB2 Custom Packages

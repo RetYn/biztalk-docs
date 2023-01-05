@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 132f77b0-dcb6-4338-b17e-192b03ad660c
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Arranging TPs Within an SNA Network (CPI-C)

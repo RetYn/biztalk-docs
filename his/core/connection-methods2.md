@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: b44d42f8-aa76-4a64-828b-3b734458c6cc
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Connection Methods

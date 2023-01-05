@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: eb88ce27-e97a-44b1-9848-b564c6a4e024
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Workstation Authentication

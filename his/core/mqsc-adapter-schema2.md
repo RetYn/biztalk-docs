@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 702f0be3-ea0b-4e18-bae0-71bf0176a390
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # MQSC Adapter Schema

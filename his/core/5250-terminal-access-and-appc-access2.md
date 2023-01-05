@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 49bc2385-4dd0-4d0a-baf3-d05f8cce3ceb
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # 5250 Terminal Access and APPC Access

@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 978c233f-2924-480b-b073-9500ec0f2988
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Variably Sized Strings

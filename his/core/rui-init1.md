@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: df5c593f-e8cc-4b24-a499-24295171d546
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # RUI_INIT

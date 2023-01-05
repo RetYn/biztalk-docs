@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 7a2c759d-40d8-407a-ade6-d5c017984214
 caps.latest.revision: 6
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Transaction Integrator Conversion Tool

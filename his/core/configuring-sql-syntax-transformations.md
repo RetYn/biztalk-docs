@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 44d13965-dfd6-425b-a16c-4652bfb5334b
 caps.latest.revision: 5
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Configure SQL Syntax Transformations

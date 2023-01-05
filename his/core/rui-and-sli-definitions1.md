@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 717db68b-2bf6-4b2e-b310-2d63fd48ce75
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # RUI and SLI Definitions

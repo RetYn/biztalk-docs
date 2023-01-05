@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 7b5f936c-a0cf-47aa-adc0-2130a74ac7d2
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Connect with an MsDb2Connection

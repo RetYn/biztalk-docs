@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: a155b1b1-1ab0-43bd-9040-9ff41a39bc3d
 caps.latest.revision: 2
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Session Object (OLE DB Provider for Informix)

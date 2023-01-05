@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: b837431f-de12-487b-88aa-1411d238b6bf
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Switching on Security and Changing Certificates

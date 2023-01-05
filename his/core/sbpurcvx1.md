@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 169aed54-a727-416e-b426-ec4a1623374c
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # sbpurcvx

@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: e1c69e78-db55-4f0d-8172-a222223f2416
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # SDLC Link Statistics

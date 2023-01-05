@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: a9b97664-412e-45b6-8b17-66c931d84d24
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # COM Mapper Programmer's Reference

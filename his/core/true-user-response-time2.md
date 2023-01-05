@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 6bfcd539-a7b0-40e8-bc07-219e9fead4e8
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # True User Response Time

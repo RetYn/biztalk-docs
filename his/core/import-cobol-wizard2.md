@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 048899d6-3b73-4a8c-91ca-3a55be842cc3
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Import COBOL Wizard

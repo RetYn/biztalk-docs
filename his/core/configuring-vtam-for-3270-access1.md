@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 9a349060-e876-4be7-9db4-a78ea6a2d737
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Configuring VTAM for 3270 Access

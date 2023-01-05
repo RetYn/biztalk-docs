@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 101966a3-7f58-406a-ae72-3fcfd1513b94
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Transaction Request Messages

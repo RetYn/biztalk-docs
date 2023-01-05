@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 21c956b2-7fec-40c1-a6d8-f026a8c9897e
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # ADAPTERPERFDATA

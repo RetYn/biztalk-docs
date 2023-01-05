@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 6eb9066c-a35f-4399-b066-903c3b07e614
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # How to Configure Enterprise Single Sign-On in a Multicomputer Scenario

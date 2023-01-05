@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: e183aea0-2d57-4018-ab65-4fbd7c6f7f28
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Stored Procedures in a DB2 Database

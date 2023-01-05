@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: f92bc05e-80ea-41f4-bf7d-f68e5e7a5e15
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Status-Control (ACKLUA) Message

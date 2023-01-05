@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: fefdbb8e-d4dd-4311-b2b7-0ebc3add6f5a
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Configuring Link Services

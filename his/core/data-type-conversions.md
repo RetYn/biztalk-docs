@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 58cdcdbb-f557-4f84-b703-aaf1e20c5183
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Data Type Conversions

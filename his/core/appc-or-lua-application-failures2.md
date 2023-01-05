@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 39498ae6-9e14-48b9-ba12-3ef3ecb98190
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # APPC or LUA Application Failures

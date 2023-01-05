@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 9db5f8ef-a636-4079-9299-bd31f744afbf
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Converting Data Types from Automation to RPG

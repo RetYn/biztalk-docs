@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 4eb8badf-799f-45e2-8e44-7fdcbecda742
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # TRANSFER_MS_DATA

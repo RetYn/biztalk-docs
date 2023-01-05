@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 13db0277-0bd8-4358-89d1-5ed8c8ade574
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # SNA Perfmon API

@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 66932def-9747-46c0-a0dc-ef72784a456a
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # How to Create Multiple Views of a Single TI Manager Console

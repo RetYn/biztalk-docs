@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 8be9c45f-27ef-4cd7-912b-92fd6fda7371
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Connection Problems

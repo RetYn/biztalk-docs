@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: a6dfc697-aa81-4ee7-b311-b63e702c4bd8
 caps.latest.revision: 5
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Service for DRDA Trace Listeners

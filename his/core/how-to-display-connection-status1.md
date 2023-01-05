@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: b3cf7466-d961-4493-97a8-5aad77c9b5c2
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # How to Display Connection Status

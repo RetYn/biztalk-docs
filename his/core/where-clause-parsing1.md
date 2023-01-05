@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: cab40b65-760a-493c-bafc-deface4d0bc2
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # WHERE Clause Parsing

@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 71674e61-cc75-4721-80b2-ea0375cb6f6c
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Windows-Initiated Processing Overview

@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: c5f9fa06-027d-4e48-be65-2a5a92c34ad9
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Buffer Header Format (SNADIS)

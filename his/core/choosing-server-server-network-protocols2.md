@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 04f2a706-62b9-49f9-9856-416d5ddb728e
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Choosing Server/Server Network Protocols

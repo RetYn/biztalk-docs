@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: f24560cb-ffa4-478b-9372-de0bdf9c2245
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Setup Information (SNADIS)

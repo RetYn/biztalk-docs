@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: ca0e0307-f3a0-472d-86e4-dbe37fae9c46
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Expanded Information About Message Formats for Open(LINK) Request with SDLC

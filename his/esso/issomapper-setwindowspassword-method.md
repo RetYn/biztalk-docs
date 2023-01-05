@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: e1fe0fc9-4eef-462a-96a9-b4f4a0ae9882
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # ISSOMapper.SetWindowsPassword Method

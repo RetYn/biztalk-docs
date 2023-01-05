@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: eaf984f0-6882-4823-84a7-68a751002441
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Session Integrator for LU2

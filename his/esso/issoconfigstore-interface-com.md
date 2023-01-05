@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 8984aafd-3449-4115-b1ea-20180caadf84
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # ISSOConfigStore Interface (COM)

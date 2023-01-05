@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 8f751860-946f-4d45-9905-f33c201cc429
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Adapter Programming Administration

@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 0be4e186-9e87-4400-bf2a-f8c7ecb41621
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Microsoft OLE DB Provider for DB2

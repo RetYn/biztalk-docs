@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: d671f616-e75f-42e9-86d4-96ec4bad504b
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Keyboard Shortcuts for Accessibility of Host Integration Server

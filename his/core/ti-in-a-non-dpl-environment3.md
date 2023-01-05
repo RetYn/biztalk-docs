@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: a9e72743-8cf7-4600-b440-117935c2903c
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # TI in a Non-DPL Environment

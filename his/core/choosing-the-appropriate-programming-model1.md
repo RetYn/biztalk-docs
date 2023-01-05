@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 803bb2c1-38fe-4963-a2ca-70531f43725d
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Choosing the Appropriate Programming Model

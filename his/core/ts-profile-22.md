@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 51e8c91e-3d67-438a-8515-417f5633bcf6
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # TS Profile 2

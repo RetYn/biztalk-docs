@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: fb7a1601-6424-41f7-ac2c-8f4c0bbb8d82
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Resetting LUA LUs

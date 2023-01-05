@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: cc9a4c31-82e0-4724-9f0b-01ad9dffac2a
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Transaction Integrator Performance Guide

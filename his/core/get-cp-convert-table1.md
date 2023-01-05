@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 6a35420f-19d7-4763-a020-5166084f1bda
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # GET_CP_CONVERT_TABLE

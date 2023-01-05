@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 696786b6-4a1b-44d0-a1b7-74fd958e2b17
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Password Sync Adapters

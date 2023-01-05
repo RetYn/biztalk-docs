@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 6a149640-905d-4676-8209-a60dc9232ca7
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Linkcfg Reference

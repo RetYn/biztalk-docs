@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 8965ab22-0221-4dc1-8bae-bf4ffa3a576c
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # How to Modify or Update an Instance

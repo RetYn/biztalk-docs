@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: a4d15dfc-a7ba-4a59-8db1-a6b0aaec4522
 caps.latest.revision: 12
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Service for DRDA

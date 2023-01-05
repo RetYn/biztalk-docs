@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 62debe8b-309c-4d0d-9eec-fa6bf0b02c39
 caps.latest.revision: 2
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # sqlApplicationManager

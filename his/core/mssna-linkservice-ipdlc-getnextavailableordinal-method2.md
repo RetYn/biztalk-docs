@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 46fc1840-9aba-4380-8d3f-902ee98cc913
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # MsSna_LinkService_IpDlc.GetNextAvailableOrdinal Method

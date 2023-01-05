@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: b597635b-713b-4e9b-a6fc-8273b5444287
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Planning Client/Server Communication

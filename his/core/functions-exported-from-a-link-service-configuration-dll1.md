@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: b1ba1b63-7994-42a3-bb6f-1bcd6f42f9fa
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Functions Exported from a Link Service Configuration DLL

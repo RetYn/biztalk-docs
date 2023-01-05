@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 2af33d5c-deb6-435a-b21a-0da71ddbce38
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # SNADIS Message Formats

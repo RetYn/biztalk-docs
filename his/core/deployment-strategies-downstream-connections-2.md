@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 2849aa37-8a8f-444e-9071-bf97e1adc9e8
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Deployment Strategies (Downstream Connections)

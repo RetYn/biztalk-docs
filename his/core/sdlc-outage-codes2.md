@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 0445e3f8-1737-445a-a354-8e887c82fb57
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # SDLC Outage Codes

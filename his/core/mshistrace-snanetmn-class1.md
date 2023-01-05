@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 60accad4-64f8-4707-838c-c5c874e06449
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # MsHisTrace_SNANetMn Class

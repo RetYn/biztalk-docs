@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 39e25cb7-de30-4e97-a29d-1136d3a089ab
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Configuring a Server Broadcast

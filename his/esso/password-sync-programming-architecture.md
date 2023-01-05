@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: c1c34f02-1329-4264-9b9e-91ee4f295473
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Password Sync Programming Architecture

@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: bc8f5b36-a727-4155-a1d0-89afb0707198
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # LUA User Name and Password Replacement

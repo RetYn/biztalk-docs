@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: c6ae4194-0349-4321-a8d0-e18085303b27
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Configuring Invokable TPs (CPI-C)

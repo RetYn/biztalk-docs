@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 81a950dc-1af9-4940-937f-e6232ba00c74
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Role of the Base (SNADIS)

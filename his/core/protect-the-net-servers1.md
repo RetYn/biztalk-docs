@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: fe8600ff-a1ff-4b81-aa3d-b002959a98fb
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Protect the .NET Servers

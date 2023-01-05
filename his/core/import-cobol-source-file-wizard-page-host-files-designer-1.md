@@ -13,7 +13,7 @@ f1_keywords:
 ms.assetid: b1d0c04d-b04d-4451-b97b-3f43f154de4e
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Import COBOL Source File Wizard Page (Host Files Designer)

@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 4fd324ad-3420-4ef3-8bf6-6ab743e2e916
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Bit Ordering

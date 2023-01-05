@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 5b59b46b-3231-4025-b9bf-155fd9097d90
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Icom3270.setCursorPosition Method

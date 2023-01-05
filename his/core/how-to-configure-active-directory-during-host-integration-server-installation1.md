@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 650a1178-4ae2-436d-9753-349bd6ef337c
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # How to Configure Active Directory During Host Integration Server Installation

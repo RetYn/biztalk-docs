@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 08820815-c6da-4c57-94fb-8a56edc56444
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Secondary with INITSELF

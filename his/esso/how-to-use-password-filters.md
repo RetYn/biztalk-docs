@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 88c785d8-ba54-4505-836f-eabb1ddef30f
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # How to Use Password Filters

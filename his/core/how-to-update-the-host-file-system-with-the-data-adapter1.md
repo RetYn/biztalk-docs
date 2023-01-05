@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: ec0bd859-9d0c-4f60-91fe-ee8949997f3f
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # How to Update the Host File System with the Data Adapter

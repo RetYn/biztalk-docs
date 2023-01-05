@@ -13,7 +13,7 @@ f1_keywords:
 ms.assetid: c5228372-892e-42de-b2a4-52e33c5da2ba
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # TRANCODE Field Wizard Page

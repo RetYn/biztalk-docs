@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 9bd6bb3e-af55-48be-841e-6e7765a0cf32
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # CICS Components

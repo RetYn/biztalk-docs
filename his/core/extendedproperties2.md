@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 1c3f0d3d-b999-458b-9962-8c761c643a83
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # ExtendedProperties

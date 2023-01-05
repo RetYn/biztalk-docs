@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: d43d22b3-3a8b-4fcd-978c-151ec7aadeb0
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # SDLC Alert Local Logging

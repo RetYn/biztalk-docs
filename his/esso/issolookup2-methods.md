@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: e62eb8a5-3485-4b71-b197-0dfaaf965c29
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # ISSOLookup2 Methods

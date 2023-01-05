@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: a1e916c5-22f7-47c6-ac31-45ae870e48aa
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # ISSOWrapper.InitializeAdapter Method

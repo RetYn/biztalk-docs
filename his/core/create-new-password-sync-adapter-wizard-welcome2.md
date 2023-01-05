@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: b4034bed-999d-4f81-a788-cf55939c8dca
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Create New Password Sync Adapter Wizard: Welcome

@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 6fe1f352-f9e9-46f6-b41b-c7768617e466
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # ISSOTicket Interface (COM)

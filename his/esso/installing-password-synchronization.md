@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: ccfb0005-f629-4749-8e54-d3e960448f23
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Installing Password Synchronization

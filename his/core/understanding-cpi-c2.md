@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 0f76cc28-051a-45ff-890c-84c1865029ca
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Understanding CPI-C

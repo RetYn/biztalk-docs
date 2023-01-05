@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 0517dc1a-81ee-4a6f-997c-6c631c84693c
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # How to Locate a TI Component

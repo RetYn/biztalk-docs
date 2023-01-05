@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: ec70feea-8833-4511-b479-350dfc1c7be1
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # SnaNlsMapString

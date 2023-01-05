@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 2a8cd73e-c75c-49d2-b94f-5758944f2ce8
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Verb Control Block

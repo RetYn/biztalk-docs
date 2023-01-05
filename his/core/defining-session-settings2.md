@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 5785ef27-d559-4a45-b8c0-eac646d01842
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Defining Session Settings

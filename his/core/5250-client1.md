@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: f33a8ea0-7e3b-44a4-9db6-251f793d12db
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # 5250 Client

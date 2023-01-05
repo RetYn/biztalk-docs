@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 10a9797b-cb17-4e28-b84b-03ec3ef426f7
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # TPNameOverride

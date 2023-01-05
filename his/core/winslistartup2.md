@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: a02e82a1-482b-4157-b721-379017e9802d
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # WinSLIStartup

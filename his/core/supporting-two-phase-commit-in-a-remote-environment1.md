@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: a37afb7a-0f96-4095-ac49-3dbf01323491
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Supporting Two-Phase Commit in a Remote Environment

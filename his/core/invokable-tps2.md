@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 8e063a8f-d0ff-4958-bc60-273bc1bd9e06
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Invokable TPs

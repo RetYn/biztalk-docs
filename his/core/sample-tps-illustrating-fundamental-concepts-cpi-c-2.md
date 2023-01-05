@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 5915fd2c-3ff2-4977-bf74-6aeb5c4a9c10
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Sample TPs Illustrating Fundamental Concepts (CPI-C)

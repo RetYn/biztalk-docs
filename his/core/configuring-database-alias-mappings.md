@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: df990679-c137-4e52-8dc9-c58d7de57917
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Configuring Database Alias Mappings

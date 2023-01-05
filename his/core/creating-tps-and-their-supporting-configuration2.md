@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 761365be-10a0-4237-b3a4-b4a91425f1d9
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Create TPs and Their Supporting Configuration

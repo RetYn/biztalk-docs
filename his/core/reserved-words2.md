@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 7db8e3c6-6c97-4c76-a625-4c26eb501c2d
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Reserved Words

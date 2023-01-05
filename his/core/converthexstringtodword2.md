@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 60ff9e2a-6d35-4829-aef1-9d71f922c116
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # ConvertHexStringToDWORD

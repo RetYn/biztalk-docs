@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: ea3cdf88-3656-419c-bf95-05dd011fa6b8
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Filter Properties: Basic

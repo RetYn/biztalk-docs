@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 1b19b805-ce10-40da-9b7c-d88470c87b98
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Troubleshooting X.25 Connections

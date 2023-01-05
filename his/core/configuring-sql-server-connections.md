@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: ee1d6324-e254-4abe-87a7-6290d23067a2
 caps.latest.revision: 11
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Configuring SQL Server Connections

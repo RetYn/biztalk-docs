@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 9c75792e-f3c2-4ce0-a1ae-e8f8b8bb00a4
 caps.latest.revision: 2
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # TN3270 Emulator

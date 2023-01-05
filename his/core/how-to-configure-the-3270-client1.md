@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: f15c00d0-8877-43b2-ae06-fa307a6718bb
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # How to Configure the 3270 Client

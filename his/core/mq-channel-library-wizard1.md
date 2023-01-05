@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 911f78ca-9056-4692-94f3-b86be21b90f3
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # MQ Channel Library Wizard

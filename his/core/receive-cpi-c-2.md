@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 651f4be0-f098-4294-ba9d-790ff0b76d6c
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Receive (CPI-C)

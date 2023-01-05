@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 17e5ae34-7d99-465b-a5bf-8648aa9fb088
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Secondary with an Unformatted LOGON Message

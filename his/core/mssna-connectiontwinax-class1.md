@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: bc737ce0-d897-48f5-93ed-9075e8d257a1
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # MsSna_ConnectionTwinax Class

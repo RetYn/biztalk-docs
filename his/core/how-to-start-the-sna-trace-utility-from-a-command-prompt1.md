@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: bdb94dbf-e665-4725-a888-d4bfb5119c44
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # How to Start the SNA Trace Utility from a Command Prompt

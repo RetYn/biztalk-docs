@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: bed9080e-10ae-49c3-8adf-395b2fb812cb
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # ConfigureLinkServiceEx

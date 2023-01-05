@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 78108a08-e566-433e-b71e-7297e517602a
 caps.latest.revision: 5
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Application Integration (Configuration)

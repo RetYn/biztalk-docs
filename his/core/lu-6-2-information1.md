@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: b8bab4dc-80a0-424d-8550-85c7ec5f449a
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # LU 6.2 Information

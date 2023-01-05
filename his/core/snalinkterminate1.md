@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: d0360ef9-c993-49da-84cc-6600340cb1d1
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # SNALinkTerminate

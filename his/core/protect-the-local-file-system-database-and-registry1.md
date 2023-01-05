@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: b101b7c6-5daa-4019-8782-797a6d7ebeaf
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Protect the Local File System, Database, and Registry

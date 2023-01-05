@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: a51af75f-4b32-4720-ab6a-171afb3b0fa6
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Managed Provider for DB2

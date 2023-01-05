@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 83a4ddaf-849d-4eda-becc-ae19335e4e2b
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # ISSONotification.InitializeAdapter Method

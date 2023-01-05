@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: dc16dac8-6ddf-4343-9e19-93278064f548
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Inbound Data from LUA Applications

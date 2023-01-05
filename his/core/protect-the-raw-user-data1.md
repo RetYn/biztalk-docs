@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 69f0018a-0d34-4802-8964-17fa43c7ba8a
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Protect the Raw User Data

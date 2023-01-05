@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: cbad90fa-d163-4459-a86d-4b5fbc630404
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Types of Client Logons

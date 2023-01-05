@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 014bf3b3-2e18-4abd-a5db-a43307d5ce59
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Snacfg TN5Server

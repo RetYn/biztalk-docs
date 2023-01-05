@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: d102ba27-2c69-4cfa-805d-cf69e7006ba1
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # APPC LU Status

@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 67c60193-6042-44a7-8b7d-a449f52f9ef5
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Segment Delivery

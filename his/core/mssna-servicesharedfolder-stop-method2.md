@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: b85c8c38-b672-4db4-b546-9cd7123f451f
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # MsSna_ServiceSharedFolder.Stop Method

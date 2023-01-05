@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 0295908f-ad5a-4b12-8b02-7e9d6df56aaf
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # How to Update the Credential Database

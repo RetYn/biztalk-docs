@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 44e295a0-69cf-4653-a517-107bd908485b
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Numeric Override Facility

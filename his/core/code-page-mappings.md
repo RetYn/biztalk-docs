@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 282b5c83-a583-46af-8cc0-80ad1a5e1c34
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Code Page Mappings

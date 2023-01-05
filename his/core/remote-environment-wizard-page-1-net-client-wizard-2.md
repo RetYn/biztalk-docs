@@ -13,7 +13,7 @@ f1_keywords:
 ms.assetid: 1a451775-d342-4c65-ab5e-35cdc3633a00
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Remote Environment Wizard Page 1 (.NET Client Wizard)

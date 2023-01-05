@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: c5b31aea-be83-4bb8-b268-3866cab7bef5
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Important Network Options on a Host Integration Server Computer

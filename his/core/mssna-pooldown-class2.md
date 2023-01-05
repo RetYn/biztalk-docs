@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 4de34bc7-fd6c-409f-ab02-b4ccd65066b8
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # MsSna_PoolDown Class

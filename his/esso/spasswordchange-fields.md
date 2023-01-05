@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 1dcd950e-56c8-4761-a9a8-8c97237350e5
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # SPasswordChange Fields

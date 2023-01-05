@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 5fda9e4b-99bd-4c36-9c2f-c99c2b596ec3
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Defining File Transfer Settings

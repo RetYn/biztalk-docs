@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: f6d39c28-a6d4-4e73-ab5f-4b840a3e1c7c
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # MsSna_LinkService_IpDlc Class

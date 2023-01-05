@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: eec25535-e146-4f4b-b433-119eb6675a21
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # How to Create and Describe an Application to Single Sign-On

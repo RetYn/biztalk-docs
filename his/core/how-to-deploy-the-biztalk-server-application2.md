@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 61db00f5-3ca8-4917-b65f-5644635761f6
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # How to Deploy the BizTalk Server Application

@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 52abb922-7a9b-41c1-b964-a5eafc73da7c
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # ISSOTicket.IssueTicket Method

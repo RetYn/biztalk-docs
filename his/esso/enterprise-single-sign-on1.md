@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: d20f661c-7a12-420c-93e3-5c78acb724c5
 caps.latest.revision: 8
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Enterprise Single Sign-On

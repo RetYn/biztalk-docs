@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: a3bd325a-4a6e-4f4d-bce9-52bd4fc06577
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # ADAPTERCOUNTER

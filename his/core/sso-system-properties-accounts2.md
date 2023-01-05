@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 10fdd3c9-6617-415f-82b3-5ba76e42ee18
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # SSO System Properties: Accounts

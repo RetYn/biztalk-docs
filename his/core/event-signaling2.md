@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 9bdfa254-ee8d-4d6b-9127-8d55a9936fb2
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Event Signaling

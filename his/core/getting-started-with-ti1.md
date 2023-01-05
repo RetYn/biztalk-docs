@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: fadc472c-1b44-4005-9525-796782f103c5
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Getting Started with TI

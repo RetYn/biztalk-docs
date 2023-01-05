@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 45acc3ec-057b-4f87-8ca4-750e1698e431
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # LUA Extensions for the Windows Environment

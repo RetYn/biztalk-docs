@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 2c712e15-20c1-452d-bfda-6accfa6d7a4b
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Icom3270.getProperty Method

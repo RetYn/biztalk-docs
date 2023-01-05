@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: bb37885a-ec64-4396-8eec-a100d7a1954f
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # MsSnaStatus_EventServiceTN5250 Class

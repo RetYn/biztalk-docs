@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 84dac951-3894-43c8-9e19-1d260ef47ef5
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # ISSOConfigStore::SetConfigInfo

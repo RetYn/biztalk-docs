@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 9c3ea011-7fe0-41f2-9e5e-bd9ac11e2a10
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Non-transactional Data Flows That Support Bounded Recordsets

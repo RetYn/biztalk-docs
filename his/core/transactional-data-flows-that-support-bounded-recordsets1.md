@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: e5416428-08b6-44f6-babb-27268b81ca71
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Transactional Data Flows That Support Bounded Recordsets

@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 614136ba-2f92-4614-ad95-34a61195aaee
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # How to Configure a 3270 Application LU (LUA)

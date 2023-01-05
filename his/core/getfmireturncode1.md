@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 6383b568-6918-4e60-8379-873239056f44
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # GetFmiReturnCode

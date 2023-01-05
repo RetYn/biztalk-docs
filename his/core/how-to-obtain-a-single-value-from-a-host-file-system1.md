@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 6a7a40e1-a554-40f6-bd51-d893b17dad77
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # How to Obtain a Single Value from a Host File System

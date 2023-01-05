@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 7bd636a9-cdad-4773-b3b8-d7904eab85f4
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Upgrading from Host Integration Server 2000 or SNA Server 4.0

@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 93bccb6e-48c2-4dfe-bcf6-cb0eb032327b
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # XML Support

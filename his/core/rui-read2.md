@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: aa095980-a3a8-4c8c-8505-210aaaca17a3
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # RUI_READ

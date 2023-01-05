@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: f32417d1-53da-42f9-b966-eb559f7ef4e3
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # AS/400 Security

@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: f514e271-c54c-41ae-8b72-581bbebb66e3
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Set_Sync_Level (CPI-C)

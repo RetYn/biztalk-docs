@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: ee5ec000-900f-4cc0-a1d1-bca3db04c813
 caps.latest.revision: 2
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # TI Configuration for WIP and HIP

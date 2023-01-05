@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 59a014ba-57ff-43a7-be92-72defe6d2754
 caps.latest.revision: 2
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Host Integration Designer

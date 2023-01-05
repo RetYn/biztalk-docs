@@ -13,7 +13,7 @@ f1_keywords:
 ms.assetid: e3e46a63-f3c3-45f3-babc-9873fd292854
 caps.latest.revision: 5
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Schemas Wizard Page (Host Files Library)

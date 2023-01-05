@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: eb91879c-73f4-4e9e-9e5b-534f48cd5584
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # How to Create User Mappings

@@ -13,7 +13,7 @@ f1_keywords:
 ms.assetid: 5d5b49a3-fda4-412a-9fcc-4e1cc796fec0
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Remote Environment Wizard Page 2 (for LU 6.2 Link) (.NET Client Wizard)

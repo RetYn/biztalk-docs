@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: b331c9c5-ca90-4a05-b3f6-59db88bf73dc
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # How to Restore the Master Secret

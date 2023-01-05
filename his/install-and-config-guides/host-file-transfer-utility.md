@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 57fb0753-051d-4022-a648-a6aa1491d1fe
 caps.latest.revision: 2
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Host File Transfer Utility

@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 5edcf4d2-f971-43a0-ba34-61d31b232e62
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Understanding Peer-to-Peer Networking

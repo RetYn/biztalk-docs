@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 2bda81d4-318a-4eab-8242-e6c29714985c
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # How to Create a Transaction Integrator Project and Interface Definition

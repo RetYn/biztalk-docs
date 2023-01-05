@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 16d523e1-0109-4e71-ae8f-5090b4dbaf58
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # MC_DEALLOCATE

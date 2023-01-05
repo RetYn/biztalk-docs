@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 6122beab-32af-4f48-b214-53cfdcda86fd
 caps.latest.revision: 2
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # BizTalk Adapter for Host Files Troubleshooting

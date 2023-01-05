@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 7b3c23a9-00d3-4864-835b-2074175791b5
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Extensions for the Windows Environment

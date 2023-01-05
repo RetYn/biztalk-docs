@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 3466db92-fc0c-428b-94a7-c581a2e3ad04
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # MsSna_PoolOnServer Class

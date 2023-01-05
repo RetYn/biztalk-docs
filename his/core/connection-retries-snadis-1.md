@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 59460d19-611b-4a42-ac80-2daf5de1708f
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Connection Retries (SNADIS)

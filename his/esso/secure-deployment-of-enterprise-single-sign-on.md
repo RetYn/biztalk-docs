@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: d15f8823-c02d-40a4-9fcf-5cf23c23c5d7
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Secure Deployment of Enterprise Single Sign-On

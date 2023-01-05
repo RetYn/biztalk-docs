@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 6e823323-2b5b-4525-b324-5e112ca2da51
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Icom3270.getScreenSize Method

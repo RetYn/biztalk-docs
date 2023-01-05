@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 0cde8a3f-4c56-42f7-81a0-d6367f934817
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Data Type Conversion (Planning)

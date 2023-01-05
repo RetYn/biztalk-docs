@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: bc8e1003-2b98-4552-9559-2de9d62b7a5e
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Understanding Static SQL for DB2 Custom Packages

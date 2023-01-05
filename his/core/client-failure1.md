@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: c5041852-076a-4829-84df-72730a3dd6c6
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Client Failure

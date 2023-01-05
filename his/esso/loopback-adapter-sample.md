@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 0b9344e8-7759-432d-bff8-001f4393728d
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Loopback Adapter Sample

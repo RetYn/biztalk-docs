@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 46ddd85a-8e3b-4f91-9f33-6154c48c7b42
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Error Codes for Open Messages

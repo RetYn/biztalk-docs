@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: bbad772e-1a0e-42e3-80a3-1d5d381942cf
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # How to Create a Password Sync Adapter

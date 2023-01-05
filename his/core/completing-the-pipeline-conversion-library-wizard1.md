@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: d0591013-7b60-46a3-b2c0-6563ea91c787
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Completing the Pipeline Conversion Library Wizard

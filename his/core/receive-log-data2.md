@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 61bebfd0-a6a9-4c68-87c3-09665fc90448
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # RECEIVE_LOG_DATA

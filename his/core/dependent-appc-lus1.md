@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 5fda0005-f612-4495-9645-ae0fb5d665ad
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Dependent APPC LUs

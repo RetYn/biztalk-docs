@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: e0ee704b-839d-471e-968a-6a5323e39b64
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Specifying a Remote Environment Programmatically

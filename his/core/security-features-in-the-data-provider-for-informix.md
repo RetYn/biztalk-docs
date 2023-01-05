@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 4039f435-619e-4556-b48c-195e294a2fc4
 caps.latest.revision: 2
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Security Features in the Data Provider for Informix

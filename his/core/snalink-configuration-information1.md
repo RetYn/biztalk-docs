@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 9830c689-c55e-4f83-818f-94a0d6183051
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # SNALink Configuration Information

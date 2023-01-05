@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: a183065d-6709-481e-b7ab-04342721c2ae
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # WinAsyncAPPCIOCP

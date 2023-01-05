@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 9ecbefb3-639c-4769-a2c2-d0974dc3e179
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Node Identification and Signaling Information

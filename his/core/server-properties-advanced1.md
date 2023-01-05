@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: ffdeb4d7-4add-4bce-a9f1-2b9f4a53b8ee
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Server Properties: Advanced

@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 386fcbd8-1357-4793-b83f-44cab2f02835
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Saving a Configuration (5250)

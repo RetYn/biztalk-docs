@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 87cf2693-6eda-476b-a568-63fc15cd3243
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Component Services User Thread Pool

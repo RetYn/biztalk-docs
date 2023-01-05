@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 36226f7d-68ee-4bdc-b8b4-6f32b674aa15
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Configuration of Enterprise Single Sign-On

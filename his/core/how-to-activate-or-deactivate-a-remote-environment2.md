@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 2e5306a5-6393-4307-b66e-b3096b8838e0
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # How to Activate or Deactivate a Remote Environment

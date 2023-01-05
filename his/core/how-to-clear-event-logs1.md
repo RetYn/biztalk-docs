@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: ad18aa7f-af25-4d14-8c68-69fed5f0b77b
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # How to Clear Event Logs

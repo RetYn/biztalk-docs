@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 1e224e3b-5d28-49f6-9988-4b977f15ee23
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Tracing SnaBase

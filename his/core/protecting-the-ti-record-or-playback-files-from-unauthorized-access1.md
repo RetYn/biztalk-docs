@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: aab5d30d-8bf9-4d26-b1a9-f8fc0e71f9a8
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Protecting the TI Record or Playback Files from Unauthorized Access

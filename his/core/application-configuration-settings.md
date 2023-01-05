@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 6dec01a2-f09d-4e27-8b50-612c9297905c
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # staticSql, drda.sqlErrorMappings, and drdaAs.drdaService configuration settings

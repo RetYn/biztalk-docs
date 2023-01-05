@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: c04ae538-921a-469e-9a4b-127de110f051
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # How to Display the Credential Database Information

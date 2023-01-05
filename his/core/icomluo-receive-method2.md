@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 411053e8-207b-43b0-a9d4-cc8a0abee8fc
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # IcomLUO.Receive Method

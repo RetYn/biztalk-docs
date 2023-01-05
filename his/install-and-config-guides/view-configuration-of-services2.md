@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: ba47dc53-eceb-4475-8734-75df409a68c6
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # View Configuration of Services

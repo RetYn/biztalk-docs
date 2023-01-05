@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 2436ba76-d469-484a-ab91-1c5077568ddd
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # ISSOMapping Interface (COM)

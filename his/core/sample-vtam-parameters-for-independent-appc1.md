@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: ebd80244-834d-4625-8536-7a240f2e60d0
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Sample VTAM Parameters for Independent APPC

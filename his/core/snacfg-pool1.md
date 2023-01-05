@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: f97d8724-adc3-404e-822f-699f3f627325
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Snacfg Pool

@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 8293a599-5969-4566-8a90-7b654357c595
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Troubleshooting Host Initiated SSO

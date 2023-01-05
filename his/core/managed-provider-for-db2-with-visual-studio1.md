@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: c5715915-ae25-4fd2-b984-25e80033d3ee
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Managed Provider for DB2 with Visual Studio

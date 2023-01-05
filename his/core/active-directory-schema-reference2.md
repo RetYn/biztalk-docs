@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 3a307041-9697-4bb3-a5d6-77ec2b5ff3c2
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Active Directory Schema Reference

@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: adda8ba9-989d-4a24-9153-e6bc2633f227
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # SNALink Termination

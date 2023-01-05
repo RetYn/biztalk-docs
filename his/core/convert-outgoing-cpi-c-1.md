@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: d35eed5f-f28c-4057-996b-834bd41eef6e
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Convert_Outgoing (CPI-C)
