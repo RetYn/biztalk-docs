@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 3f208f94-ab1c-4840-bb88-3109d1af9580
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Tracing Servers Components

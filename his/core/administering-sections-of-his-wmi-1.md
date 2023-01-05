@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 62658af5-463c-4bde-8f8c-8ea830cf5bb8
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Administering Sections of HIS (WMI)

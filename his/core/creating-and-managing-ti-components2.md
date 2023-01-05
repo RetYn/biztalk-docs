@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 7cfbc093-08bc-433a-bb26-ea214bf1cd4c
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Creating and Managing TI Components

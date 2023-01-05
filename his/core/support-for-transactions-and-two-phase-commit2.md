@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 2ad9480e-f1a6-4ae6-8da0-d4904d1fa87c
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Support for Transactions and Two-Phase Commit

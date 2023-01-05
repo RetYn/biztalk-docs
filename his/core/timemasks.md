@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: ee7dea01-2701-44b1-82ba-b8d9ea267747
 caps.latest.revision: 2
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # timeMasks

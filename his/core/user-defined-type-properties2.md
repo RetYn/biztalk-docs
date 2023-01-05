@@ -13,7 +13,7 @@ f1_keywords:
 ms.assetid: 75b7ffe0-1c86-4ae8-9f35-9a0544d3ec46
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # User-Defined Type Properties

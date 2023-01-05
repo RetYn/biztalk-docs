@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 3561623b-27ac-408c-9639-0413b0176985
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Event Viewer

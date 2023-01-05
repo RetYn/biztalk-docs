@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: a17358ee-46da-4760-a888-e5ca861d4cb5
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Managed Provider for DB2 Programmer's Guide

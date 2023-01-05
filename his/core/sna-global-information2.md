@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 8bd85866-c2b2-4274-b7a6-3dd329ab4661
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # SNA Global Information

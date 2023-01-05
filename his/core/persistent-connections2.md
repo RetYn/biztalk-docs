@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 552e8072-56cc-42d6-925d-a702a67af905
 caps.latest.revision: 5
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Persistent Connections

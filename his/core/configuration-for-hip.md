@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 258750d9-18ce-4a1f-93ae-08347af3ab34
 caps.latest.revision: 2
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Configuration for HIP

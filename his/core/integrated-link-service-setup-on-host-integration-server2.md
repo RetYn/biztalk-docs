@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 9f75c0ab-fc00-4c42-bc95-3dd6cbec9aaf
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Integrated Link Service Setup on Host Integration Server

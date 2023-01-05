@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: a29d2fc8-d279-4317-8ab4-ef649564a1c0
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Monitoring Mainframe Response Times

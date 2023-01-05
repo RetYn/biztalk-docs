@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 4ffe30e8-4151-469c-87d2-d8c30d65b136
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Host Response Time

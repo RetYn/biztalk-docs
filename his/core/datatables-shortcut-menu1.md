@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: aba8f10b-9263-46ec-a4c6-f29ff4e0ca69
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # DataTables Shortcut Menu

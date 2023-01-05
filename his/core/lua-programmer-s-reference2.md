@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 25b12ac7-7721-47ce-875e-d91cb69c5925
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # LUA Programmer's Reference

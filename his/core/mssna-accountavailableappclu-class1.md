@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 3873292c-918f-48ae-a65d-ce21820814f8
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # MsSna_AccountAvailableAppcLu Class

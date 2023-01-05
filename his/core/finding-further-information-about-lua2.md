@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: c1c68309-dfb7-40b8-bf2d-5ef80220adf2
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Finding Further Information about LUA

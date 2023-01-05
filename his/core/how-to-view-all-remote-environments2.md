@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 5909853b-ba37-45db-9196-5f01a0c19c91
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # How to View All Remote Environments

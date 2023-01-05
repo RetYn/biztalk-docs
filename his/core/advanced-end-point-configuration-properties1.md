@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: e7f68357-490c-4209-a32f-65f3c86d7407
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Advanced End-Point Configuration Properties

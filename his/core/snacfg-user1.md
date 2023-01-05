@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: e53fb049-0f84-4a46-96cb-9e3a504ef291
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Snacfg User

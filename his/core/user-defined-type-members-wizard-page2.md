@@ -13,7 +13,7 @@ f1_keywords:
 ms.assetid: 7134a3db-4e77-42bd-a814-2b1dcf43718a
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # User Defined Type Members Wizard Page

@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 359ecb7e-b175-4ad0-9bba-7deef392213b
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # ANSI Code Page Support (SNANLS)

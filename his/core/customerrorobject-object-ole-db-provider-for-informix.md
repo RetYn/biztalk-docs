@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: c718bc48-824b-4d42-99f7-ee7b3bcca566
 caps.latest.revision: 2
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # CustomErrorObject Object (OLE DB Provider for Informix)

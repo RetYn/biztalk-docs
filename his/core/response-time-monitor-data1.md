@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: e79b1f42-7f17-48cc-a58a-d5307450f3cc
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Response Time Monitor Data

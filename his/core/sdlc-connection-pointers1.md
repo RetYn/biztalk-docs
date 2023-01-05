@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 8b6ae3aa-bbaf-4135-8531-df6807192d36
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # SDLC Connection Pointers

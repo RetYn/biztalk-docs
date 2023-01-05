@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: f31fb1b4-92f4-47ba-bb38-71ee45937a99
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # How to Create a BizTalk Server Export Package

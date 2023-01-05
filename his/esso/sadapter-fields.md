@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: d64be0be-2139-4345-a36f-90a6a29fd31b
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # SAdapter Fields

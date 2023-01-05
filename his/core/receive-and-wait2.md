@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 9d844930-7045-4ab8-812d-91d047d184ae
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # RECEIVE_AND_WAIT

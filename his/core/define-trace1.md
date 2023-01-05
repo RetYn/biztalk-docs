@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: f23202bc-d2e7-4ca5-8f75-aefdf0bec3a0
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # DEFINE_TRACE

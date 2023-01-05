@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: da54d1fe-8828-4c77-8dcd-421176c8f14c
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # How to Create a New Host Integration Server Designer Project

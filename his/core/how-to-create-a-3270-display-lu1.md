@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 6e763444-a7e5-4826-b90c-b334795f0294
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # How to Create a 3270 Display LU

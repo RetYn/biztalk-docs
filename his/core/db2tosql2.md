@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 3b16e89e-a3da-4809-8dc4-7b0d0beb6fc4
 caps.latest.revision: 2
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # db2ToSql Overview

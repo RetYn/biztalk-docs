@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 225b2398-93ff-4893-b391-227f75804174
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # SNAModemDeleteLink

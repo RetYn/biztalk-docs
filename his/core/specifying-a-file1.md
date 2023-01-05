@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: c459fc34-ccac-4540-84e0-dcf5fb18e0e5
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Specifying a File

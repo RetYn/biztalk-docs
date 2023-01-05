@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 55794ef5-94b0-4b63-b918-9984920bcbd3
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # MsSna_LuDisplay Class

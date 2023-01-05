@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: a981f4b2-0393-4615-8848-7978d515dd17
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Working with Host-Initiated Processing

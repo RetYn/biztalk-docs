@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: af504bd5-d041-48db-81d7-51ddb9ab3a63
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Adapter Groups and Group Adapters

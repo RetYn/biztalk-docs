@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 006dd897-e614-4649-8bdb-610c1db38381
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Prerequisites for LUA Single Sign-On

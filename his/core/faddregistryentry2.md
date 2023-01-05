@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 8c70e4cd-51d3-49a9-8ea5-da4e9962efcb
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # fAddRegistryEntry

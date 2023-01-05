@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 517ae082-6425-4ce1-84bb-54ac0731ac84
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # How to Retrieve Connection Information

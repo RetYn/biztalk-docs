@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: ce03c1c9-322f-4fb1-8381-4e8f829d3114
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Snacfg LUD

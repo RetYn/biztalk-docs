@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 590a13f5-b18c-443b-94d8-62d79c435d39
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Limitations of User Access Level Sign On

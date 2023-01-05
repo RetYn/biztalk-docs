@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: d91c93ea-24c6-482d-b6c0-0d9d00e48c27
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Changing Conversation States (CPI-C)

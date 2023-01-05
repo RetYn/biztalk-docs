@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 81065190-cba9-41bd-bff0-243cf8830602
 caps.latest.revision: 2
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # ErrorRecord Object (OLE DB Provider for Informix)

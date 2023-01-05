@@ -13,7 +13,7 @@ f1_keywords:
 ms.assetid: 29b6a0ec-f0e2-4615-a47c-669a68c8f6b8
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Data Table Name Node

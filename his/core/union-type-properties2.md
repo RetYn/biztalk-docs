@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 39f8ada3-0348-457b-9e54-f4ca48fac48b
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Union Type Properties

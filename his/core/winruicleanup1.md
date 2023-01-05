@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 966cc622-2c1e-4a43-a01b-118c5658118e
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # WinRUICleanup

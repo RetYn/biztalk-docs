@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: f2ee3d53-5456-4ce8-a5f1-a40ab7f67aaa
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Synchronous Data Link Control (SDLC)

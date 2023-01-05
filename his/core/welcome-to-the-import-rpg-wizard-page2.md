@@ -13,7 +13,7 @@ f1_keywords:
 ms.assetid: 657d69ac-8c83-420c-8e25-653bcbde861e
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Welcome to the Import RPG Wizard Page

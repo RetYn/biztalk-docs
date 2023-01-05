@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 7579ef9c-6119-4301-939f-598855d6da76
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Load Balancing and Hot Backup

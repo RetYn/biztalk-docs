@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: ebb67185-e925-47df-b11b-c8e19a787185
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Event and Error Problems

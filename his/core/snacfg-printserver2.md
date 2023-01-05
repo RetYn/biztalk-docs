@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: cb328695-71d1-4e2a-b139-ce953f5c6392
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Snacfg PrintServer

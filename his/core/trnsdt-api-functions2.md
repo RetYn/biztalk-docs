@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 72371cdf-4391-43a5-85ba-dd207a50bd34
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # TrnsDT API Functions

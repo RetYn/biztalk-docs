@@ -13,7 +13,7 @@ f1_keywords:
 ms.assetid: 61dc272d-d03b-4cb6-88e8-580f46680b90
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Completing the New .NET Client Library Wizard Page

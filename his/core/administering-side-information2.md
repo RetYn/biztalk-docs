@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 0362afd0-f8df-4f3a-824a-fc5948d3f3d5
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Administering Side Information

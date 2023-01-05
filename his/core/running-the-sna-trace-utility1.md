@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 997757f4-2cfe-4b41-9a5a-6161d6cb5f97
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Running the SNA Trace Utility

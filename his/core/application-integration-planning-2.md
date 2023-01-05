@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 8c7b4814-ee96-49a5-a925-5efbc7194f0d
 caps.latest.revision: 5
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Get started with application integration - HIS

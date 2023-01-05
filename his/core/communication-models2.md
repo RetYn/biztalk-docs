@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 74c01f9f-fd00-4309-b773-89ba3c3da816
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Communication Models

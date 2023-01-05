@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: a2cb4c72-b039-403f-b5ee-56d1fb178f0d
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # AS/400 Connection Summary

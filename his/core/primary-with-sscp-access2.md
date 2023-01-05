@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 3cdce08e-1e9c-4133-b995-986cecd33b8e
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Primary with SSCP Access

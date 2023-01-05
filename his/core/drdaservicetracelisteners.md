@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 8efd6862-c35c-4e74-9f00-a06cb3021342
 caps.latest.revision: 2
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # drdaServiceTraceListeners

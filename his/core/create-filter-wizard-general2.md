@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 04817275-9a8e-4f8f-ace2-f9f1bf29c517
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Create Filter Wizard: General

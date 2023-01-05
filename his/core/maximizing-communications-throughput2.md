@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 77b662e5-4a55-4408-acd1-91485d64ae5c
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Maximizing Communications Throughput

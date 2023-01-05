@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 76b4dc46-0ea6-4145-92d3-63cc6f8e5f3d
 caps.latest.revision: 6
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # How to Configure ILM for ENTSSO MA

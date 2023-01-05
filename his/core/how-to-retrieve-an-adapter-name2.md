@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: e46578ce-df53-4b60-a325-260e7eae4316
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # How to Retrieve an Adapter Name

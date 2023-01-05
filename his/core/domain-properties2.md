@@ -13,7 +13,7 @@ f1_keywords:
 ms.assetid: 21420c12-fa88-49c2-9b16-2abcef9823ac
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Domain Properties

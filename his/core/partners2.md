@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 929a2b27-2b77-462c-bc80-ac5226589c43
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Partners

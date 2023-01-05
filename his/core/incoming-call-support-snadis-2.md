@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 26c34b34-8531-4e37-822b-c500c7ebf94a
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Incoming Call Support (SNADIS)

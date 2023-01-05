@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: e7dea3e7-d173-47fe-83cc-5f433d65a8ca
 caps.latest.revision: 2
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Transaction Object (OLE DB Provider for Informix)

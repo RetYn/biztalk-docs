@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 7f79d0de-841e-45cd-b464-5b61657bc628
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Configuration of Enterprise Single Sign-On Backup Secret

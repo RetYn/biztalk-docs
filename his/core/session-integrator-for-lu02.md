@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 0941eb05-dd62-4e7f-bacc-c46c1575b878
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Session Integrator for LU0

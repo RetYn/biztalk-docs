@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 5a48e696-0546-42d0-848a-035f3534bbbd
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Accessibility

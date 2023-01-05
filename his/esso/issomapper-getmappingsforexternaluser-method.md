@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 6757b74d-7eca-4338-9a0d-c47871b7bd00
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # ISSOMapper.GetMappingsForExternalUser Method

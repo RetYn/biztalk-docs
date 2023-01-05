@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 4450b2a5-b63d-4c3a-820a-04a83d877d37
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Command-Specific Structure of LUA VCBs

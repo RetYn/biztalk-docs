@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 828a297c-7bb6-47a2-aa1e-3aa558c92318
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Icom3270.connect Method

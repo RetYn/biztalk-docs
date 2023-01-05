@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 3267a756-3556-4a9c-af68-6cbe382059f9
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Enterprise Single Sign-On User Groups

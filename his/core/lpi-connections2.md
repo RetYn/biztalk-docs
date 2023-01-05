@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: b2e2b984-fb47-4d06-9a84-d1407d307450
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # LPI Connections

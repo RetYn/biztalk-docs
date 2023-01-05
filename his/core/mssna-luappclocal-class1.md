@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: b64091e9-d601-44a2-8b39-c0af7a958b9f
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # MsSna_LuAppcLocal Class

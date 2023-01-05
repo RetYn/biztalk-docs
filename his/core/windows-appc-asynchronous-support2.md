@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 857b8ed2-6377-46c4-a003-5225c38be911
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Windows APPC Asynchronous Support

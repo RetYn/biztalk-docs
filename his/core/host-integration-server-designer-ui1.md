@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: f700d7ae-81a8-4d9c-9acf-9cae1b8855c3
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Host Integration Server Designer UI

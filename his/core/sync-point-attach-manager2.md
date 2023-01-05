@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: af51cb71-f79e-42ad-85a0-ebed90c3e7c1
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Sync Point Attach Manager

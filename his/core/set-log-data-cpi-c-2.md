@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: bbd93c60-ee27-473b-b375-89b4a827b6a1
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Set_Log_Data (CPI-C)

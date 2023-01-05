@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: cb27d2f6-1367-48ce-9daf-5cf918f3caf7
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # How to Delete a Remote Environment

@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 11e4e6b3-4853-4420-b4f9-7424ea826f89
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Creating a 5250 Connection with a Wizard

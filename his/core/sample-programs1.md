@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: ad97f6c6-259e-4cfc-abf6-29b328d53a5b
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Sample Programs

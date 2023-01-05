@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: dc707f56-483e-4de2-99e4-e90e0213738f
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # SNADIS Programmer&#39;s Guide

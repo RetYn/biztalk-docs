@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 3b116d56-0e76-4bbd-b580-8fb90dd78906
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # How to Assign Remote APPC LUs to Configured Users

@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 7b878d8c-3ccf-44fa-87af-5ac1c5066b7a
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # MsHisTrace_SNAPrint Class

@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: af91a018-e5b3-41b1-9c21-375480ced52b
 caps.latest.revision: 11
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # HIS 2013 - What's New, Install, and Configure

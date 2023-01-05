@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: da74aad4-2b4f-496f-90ef-ef2ddcc3ea29
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # System Main Menu

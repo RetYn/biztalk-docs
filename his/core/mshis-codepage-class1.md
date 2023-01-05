@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 72032fa0-c1ec-4d9f-8074-850d63201e74
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # MsHis_CodePage Class

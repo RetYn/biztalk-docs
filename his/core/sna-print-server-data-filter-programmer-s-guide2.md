@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 076714f6-90ee-4b29-98d8-c4f236859b22
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # SNA Print Server Data Filter Programmer&#39;s Guide

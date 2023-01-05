@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 12150270-edfd-4a52-8d84-718e94ce4bbe
 caps.latest.revision: 5
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Configuration Wizard

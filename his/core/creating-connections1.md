@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 55e4bab3-bcf7-425e-867c-13f006f17582
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Creating Connections

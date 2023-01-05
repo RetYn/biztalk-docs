@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 8082c641-4725-4c95-8997-a1953700d616
 caps.latest.revision: 2
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Upgrading Existing Installation (Host Files)

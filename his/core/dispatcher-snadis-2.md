@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 3324afc5-33fd-4b82-80fe-b79e6e097083
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Dispatcher (SNADIS)

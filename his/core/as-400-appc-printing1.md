@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 73bdc381-5029-4641-835f-2bbd4c179292
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # AS/400 (APPC) Printing

@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: a5938167-41c9-4093-b079-4634f24e320c
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Transaction Programs Overview

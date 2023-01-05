@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 6bd5a257-a581-4117-836c-a30dbe25867c
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # How TI Associates a Method with a TP

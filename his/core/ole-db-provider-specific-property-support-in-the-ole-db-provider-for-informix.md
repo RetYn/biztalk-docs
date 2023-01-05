@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: ffa71e57-270d-4a4d-8d56-929a5b8c6142
 caps.latest.revision: 2
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # OLE DB Provider-Specific Property Support in the OLE DB Provider for Informix

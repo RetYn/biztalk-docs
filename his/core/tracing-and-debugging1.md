@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: b9803001-937d-4bc6-99b4-c329f81d99c7
 caps.latest.revision: 7
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Tracing and Debugging

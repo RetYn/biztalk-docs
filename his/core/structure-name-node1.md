@@ -13,7 +13,7 @@ f1_keywords:
 ms.assetid: d882e52d-7012-4e6e-9bdd-3ce2a32fe3ce
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Structure Name Node

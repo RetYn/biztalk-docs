@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 69896b9f-c413-4879-9dfa-46eafd08fb44
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # XID Retries

@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 7b0790d0-aaeb-472d-908c-00013582d82c
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Password Sync Adapter Properties: Options

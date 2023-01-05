@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 0203629b-01eb-46ae-8fe4-d0c181bfe7a1
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Partners (SNADIS)

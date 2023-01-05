@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 2fe211a5-adfd-41a9-8f0f-1e640fa4c1f7
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # .NET Framework Data Providers for Host Integration Server

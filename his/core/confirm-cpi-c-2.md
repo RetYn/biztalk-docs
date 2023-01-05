@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 84006215-ea1c-41b1-bc55-cb9947c23ff0
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Confirm (CPI-C)

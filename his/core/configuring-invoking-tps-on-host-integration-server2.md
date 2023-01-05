@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 3cf83d53-2937-408c-8ff6-278ee4de1b43
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Configuring Invoking TPs on Host Integration Server

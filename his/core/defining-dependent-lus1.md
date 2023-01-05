@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: a2e88ca6-ed70-4138-a7f0-9fce4c832f94
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Defining Dependent LUs

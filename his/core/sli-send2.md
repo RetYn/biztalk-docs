@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 5a3597fb-5ddc-4665-a9c1-a6e5203da39f
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # SLI_SEND

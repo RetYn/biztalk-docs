@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 603c5fca-8706-46a6-b2eb-7f438d6deb12
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # SNA Trace Utility Overview

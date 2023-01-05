@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 2c41cfc4-20a8-4c1e-b085-fc789c2b4a5d
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Application Integration Programming

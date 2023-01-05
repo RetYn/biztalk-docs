@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 13f70953-1ff5-4cb3-869b-544de8a1985e
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # How to Map Single Sign-On Credentials

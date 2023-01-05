@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 5eb7f3ac-3dd9-44f1-bb70-cd32dd087934
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Client to Host Integration Server Problems

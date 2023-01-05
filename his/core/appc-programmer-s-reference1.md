@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 92efac1c-9c64-4ca9-accf-cb66ac013857
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # APPC Programmer's Reference

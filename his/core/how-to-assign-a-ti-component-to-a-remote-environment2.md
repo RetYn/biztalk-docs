@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 025b6170-0028-44c4-a23c-bc22856ed124
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # How to Assign a TI Component to a Remote Environment

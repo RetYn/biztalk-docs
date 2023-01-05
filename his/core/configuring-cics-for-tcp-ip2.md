@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 031cd7a3-2958-41cc-9b29-ba97c077097d
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Configuring CICS for TCP/IP

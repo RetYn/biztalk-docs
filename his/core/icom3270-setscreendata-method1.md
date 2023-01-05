@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: ec3db1a8-977e-4cd7-a19e-50c4dfff15f4
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Icom3270.setScreenData Method

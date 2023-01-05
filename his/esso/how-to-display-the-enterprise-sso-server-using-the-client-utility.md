@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: b0d170ed-b35c-4e2c-bdf0-050c0067dffa
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # How to Display the Enterprise SSO Server Using the Client Utility

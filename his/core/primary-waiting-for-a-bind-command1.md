@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: fc17670f-58fd-489b-a287-28ee2c7ac9af
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Primary Waiting for a BIND Command

@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: acdb3dc1-9c1e-4acd-a8dc-229c9e4f5d24
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Communication Between Multiple Host Integration Server Computers

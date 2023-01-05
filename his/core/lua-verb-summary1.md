@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: d48f8077-9a1d-491c-9293-7e94f8427104
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # LUA Verb Summary

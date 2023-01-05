@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 03e71e55-1aa6-407e-8a7e-48141de4acc6
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # COMTIContext Interface

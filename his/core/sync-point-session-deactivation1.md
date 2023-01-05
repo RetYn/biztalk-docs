@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: e9dccc14-8bb3-489b-9e3b-b7eda8053192
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Sync Point Session Deactivation

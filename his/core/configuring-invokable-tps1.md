@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 2c066865-3d7f-4e74-aa3f-665f3961654b
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Configuring Invokable TPs

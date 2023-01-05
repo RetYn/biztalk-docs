@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 409f1ad4-3ff6-46ca-8e3f-9fbede86fb4c
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Function 0x44: Transmit Frame

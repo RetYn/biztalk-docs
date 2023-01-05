@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: f88155ff-c8b5-4287-b962-9e0061794d97
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Overview of Message Formats (SNADIS)

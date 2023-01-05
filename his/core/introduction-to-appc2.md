@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 811f8522-6cc2-4931-8637-dcbf4820440f
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Introduction to APPC

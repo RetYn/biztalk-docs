@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: a5beef40-5b06-4b16-b450-211aa5cda72c
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Install Enterprise Single Sign-On

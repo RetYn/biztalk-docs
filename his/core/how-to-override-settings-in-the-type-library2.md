@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 63b686be-8ec7-4ebb-b48d-20dc8ce04069
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # How To Override Settings in the Type Library

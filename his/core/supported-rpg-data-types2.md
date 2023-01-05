@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 0c1c33cd-af36-48ac-83ca-e3194fc2a204
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Supported RPG Data Types

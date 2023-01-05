@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 7ba45e83-818a-4cb3-81b5-5ee5355500a1
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # APPC TP Verbs

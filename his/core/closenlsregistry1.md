@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: e7d6d2f5-532a-467f-b755-422411aab8d8
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # CloseNlsRegistry

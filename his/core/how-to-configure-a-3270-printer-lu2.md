@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 9f13740d-e2fe-4d83-bb94-c01316c062c9
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # How to Configure a 3270 Printer LU

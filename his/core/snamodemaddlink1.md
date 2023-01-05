@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 7e999f91-c53b-4be0-a2fc-c1e9353a72c8
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # SNAModemAddLink

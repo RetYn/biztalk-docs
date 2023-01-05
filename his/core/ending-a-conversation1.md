@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 7c49373f-d286-444c-9d6b-106e97351dbd
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Ending a Conversation

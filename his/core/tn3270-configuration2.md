@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 979a4322-a228-46f6-8eac-ba98cbab3d5f
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # TN3270 Configuration

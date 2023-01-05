@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: abfdd579-0232-4996-b13f-ef373dc01087
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # SNA Trace Provider WMI Programmer’s Reference

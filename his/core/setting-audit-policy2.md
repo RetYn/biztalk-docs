@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 5f4bdccb-3e61-4364-b112-5d7c56b6c008
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Setting Audit Policy

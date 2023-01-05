@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 3cad02c9-6a94-41ac-88c9-3acf7975cbca
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # IcomLU0 Members

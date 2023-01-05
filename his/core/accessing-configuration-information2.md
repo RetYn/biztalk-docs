@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 075d5025-4b38-4207-bda5-6f635dfb8380
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Accessing Configuration Information

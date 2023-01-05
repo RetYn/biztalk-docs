@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 0af86d33-2a0f-4779-a947-47839f6b46d9
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # LPI Addresses (SNADIS)

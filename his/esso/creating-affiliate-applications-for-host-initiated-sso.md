@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 4399dbe9-2215-4754-b386-d3546a7f705a
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Creating Affiliate Applications for Host Initiated SSO

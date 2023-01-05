@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 894bc02c-b049-437b-8ca5-287d99dd3aed
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # How to Filter Events

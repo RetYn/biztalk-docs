@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: df9ce965-016f-4422-be5d-7c336f8cf172
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Confirming Receipt of Data and Reporting Errors

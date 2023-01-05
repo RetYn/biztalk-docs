@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: eb1dc7ed-fbe9-44fe-972b-18b458110346
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Import RPG Source File Wizard Page

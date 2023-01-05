@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 3269be0f-1ae6-4c4e-9cd0-8d47a07ccda2
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Arranging TPs Within an SNA Network

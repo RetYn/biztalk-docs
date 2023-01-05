@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 719d3c41-002b-4080-87d0-eadd0ad6e1a3
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Sense Data Specific to LU 6.2

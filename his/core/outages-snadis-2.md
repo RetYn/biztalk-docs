@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: a0657280-6395-4c07-b979-10441b5a24af
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Outages (SNADIS)

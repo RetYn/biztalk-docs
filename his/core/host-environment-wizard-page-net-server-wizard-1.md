@@ -13,7 +13,7 @@ f1_keywords:
 ms.assetid: 9819b049-2298-4f3c-9713-a1b451dd76ab
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Host Environment Wizard Page (.NET Server Wizard)

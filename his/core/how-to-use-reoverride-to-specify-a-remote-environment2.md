@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 46eef5d7-0e21-4baa-b45a-1317f963a3db
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # How To Use REOverride to Specify a Remote Environment

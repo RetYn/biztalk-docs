@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 1a6ed17e-97cc-4f84-ac48-ed9870fa0429
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Configuration Overview

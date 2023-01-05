@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: a0cc0be3-9f29-4734-abff-23825b4ba0fc
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # WMI and the Host Integration Server Architecture

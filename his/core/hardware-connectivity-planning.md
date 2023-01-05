@@ -6,7 +6,7 @@ ms.date: 01/03/2018
 ms.prod: "host-integration-server"
 ms.topic: "article"
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Capacity planning and connectivity - HIS

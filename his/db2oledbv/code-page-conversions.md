@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 0d1b9519-2300-4d37-b0e9-68c709130cdc
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Code Page Conversions

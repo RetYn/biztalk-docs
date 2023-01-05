@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 3dcf6fb5-f0fd-4124-8b91-96982883ca6f
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Example of Registry Entries (CPI-C)

@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 406d13d3-f375-4b16-9247-961ab45b5abb
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # SPasswordChange.bstrExternalAccount Field

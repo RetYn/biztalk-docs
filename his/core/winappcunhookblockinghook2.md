@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 0677c18b-5a74-4a67-a2bb-26a11bd159e9
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # WinAPPCUnhookBlockingHook

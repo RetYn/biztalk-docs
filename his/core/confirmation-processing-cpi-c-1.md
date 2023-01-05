@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 3aea4e09-23bc-41e6-921e-7dceb2df6957
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Confirmation Processing (CPI-C)

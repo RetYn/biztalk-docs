@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 3c3bf50d-d99e-4d46-aeb0-8e2d4831bf95
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # WinAPPCIsBlocking

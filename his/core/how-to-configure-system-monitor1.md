@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 822c845c-2552-4593-b98c-b4403e85edf7
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # How to Configure System Monitor

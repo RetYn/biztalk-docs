@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: aec6f71c-ea29-4337-9b18-a0554be48858
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Bracket Termination

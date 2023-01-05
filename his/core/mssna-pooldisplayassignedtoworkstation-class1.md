@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: c5f07334-da20-4b18-9508-8b84cc2b61b5
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # MsSna_PoolDisplayAssignedToWorkstation Class

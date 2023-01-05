@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: aa453759-b105-4ffb-a1c1-9ee93ededb6d
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # GET_LU_STATUS

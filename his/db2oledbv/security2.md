@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 7afe4c2a-c839-4885-afa0-55c7373f7c9c
 caps.latest.revision: 2
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Security with the Microsoft OLE DB Provider for DB2 (Data Provider)

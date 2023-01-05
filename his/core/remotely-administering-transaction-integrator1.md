@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: a34042b2-8c04-48d6-a783-485687477e27
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Remotely Administering Transaction Integrator

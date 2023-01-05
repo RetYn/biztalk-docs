@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 43652177-bd8e-4bc4-a3bf-de67d8c887cd
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Transaction Size vs. Data Throughput

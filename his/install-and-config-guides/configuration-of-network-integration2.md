@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 96f04b21-b46d-4156-8680-e0065d5ff0a9
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Configure Network Integration

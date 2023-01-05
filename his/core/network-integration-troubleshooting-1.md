@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 87702ec9-159d-4653-9ca5-82b6ea7efa55
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Network Integration (Troubleshooting)

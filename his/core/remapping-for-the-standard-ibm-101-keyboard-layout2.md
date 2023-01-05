@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 7de3f0f2-209a-4460-a3d4-a3c6a397b0dc
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Remapping for the Standard IBM 101 Keyboard Layout

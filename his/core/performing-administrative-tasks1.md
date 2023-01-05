@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 3fa0bab1-854a-4fd4-bc2e-5e2e9c3dc7ec
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Performing Administrative Tasks

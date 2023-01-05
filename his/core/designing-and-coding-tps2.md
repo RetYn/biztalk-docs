@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 4f769b43-8f1e-47ea-aa54-ea3620f01cb2
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Designing and Coding TPs

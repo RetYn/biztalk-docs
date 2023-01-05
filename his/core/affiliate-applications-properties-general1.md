@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: db080ce0-5a3f-469e-a45c-76b042b0baf6
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Affiliate Applications Properties: General

@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 0d24a781-a455-4740-ba3a-92599517e514
 caps.latest.revision: 8
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Data Links (DB2)

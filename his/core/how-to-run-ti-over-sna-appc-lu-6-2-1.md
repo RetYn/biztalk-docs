@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: c746f4b4-fd8f-4420-9587-d54a0986176d
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # How to Run TI over SNA (APPC/LU 6.2)

@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 8a7fd25b-f6eb-4f19-b511-65703185b28f
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Configuring Host Integration Server to Support TPs (CPI-C)

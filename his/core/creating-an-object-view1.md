@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: e0ca522f-c18c-4f28-a3f9-f97e7e3d1d1a
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Creating an Object View

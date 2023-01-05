@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 4c004663-2c90-40e1-9d94-e77ab4c646c9
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # How to Create a Send Port for the Host Application Adapter

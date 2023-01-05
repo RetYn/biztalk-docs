@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 357b211d-d479-4404-932d-1e1789591fbe
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Sync Point Knows Transaction Names

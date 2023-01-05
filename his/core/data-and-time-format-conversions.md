@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 02540779-14a9-4de8-8d7f-780f3f034a63
 caps.latest.revision: 2
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Data and Time Format Conversions

@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 50b72d46-bc94-4e09-b7ca-7cc7ffea9f53
 caps.latest.revision: 5
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Data Encryption

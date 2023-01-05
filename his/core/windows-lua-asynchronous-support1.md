@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 50d4398d-1886-4330-8e4c-dedc494c5263
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Windows LUA Asynchronous Support

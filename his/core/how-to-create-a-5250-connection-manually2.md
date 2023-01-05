@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 59a87e34-3c2d-4569-86e0-578e4fc571bd
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # How to Create a 5250 Connection Manually

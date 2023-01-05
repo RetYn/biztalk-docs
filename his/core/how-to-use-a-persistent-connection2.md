@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 3017728b-3a1b-43cc-9ea4-32b4ebe45021
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # How To Use a Persistent Connection

@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 47c2fa02-5fa7-4365-b45c-3b0896bd80a7
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # State Checks (CPI-C)

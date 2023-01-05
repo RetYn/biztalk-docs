@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 7dbf27cb-80db-4ea6-8693-f3e7fedfe65c
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # CONNTIMEOUT

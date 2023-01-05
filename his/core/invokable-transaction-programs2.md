@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 298cdd1c-40ad-4d9f-b636-f0e73a07a5db
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Invokable Transaction Programs

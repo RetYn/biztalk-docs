@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 4b5b16e7-8b8c-40c0-a7e2-b5b061807c24
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Downstream Connections

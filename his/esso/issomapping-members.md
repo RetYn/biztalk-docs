@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: b1f1d92e-a660-4c1c-b27d-2f1c2da16cf1
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # ISSOMapping Members

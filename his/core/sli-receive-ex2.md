@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 70ff800e-95b2-4acf-874c-4e04a1b76e65
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # SLI_RECEIVE_EX

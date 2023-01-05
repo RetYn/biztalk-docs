@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 4717256a-2ce1-4870-ad86-62daa98e87d9
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Side Information for CPI-C Programs

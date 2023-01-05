@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: ba6038f9-bf1f-4090-b4e4-f97bcb4490a0
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # How to Use a Persistent Connection with Host-Initiated Processing

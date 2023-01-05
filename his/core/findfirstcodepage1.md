@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 998c9c58-e510-4925-a989-1fb82bfc7071
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # FindFirstCodePage

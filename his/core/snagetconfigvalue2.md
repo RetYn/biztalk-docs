@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 900f149c-fc6a-4fdf-aeb6-04dec4602eea
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # SNAGetConfigValue

@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: fa707f7d-bd2f-452b-9a35-d7c99c017d8e
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Format for Link Statistics

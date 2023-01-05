@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 7c49d2d4-1fe4-48fa-86f2-27492c26dc55
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Discriminant Value Table Dialog Box

@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 88c4f4a7-21e4-4126-bc8e-894bae0e816a
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Windows LUA Overview

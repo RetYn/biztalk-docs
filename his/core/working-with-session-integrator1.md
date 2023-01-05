@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: a957804e-95a9-4818-8838-886d1bafb1d3
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Working with Session Integrator

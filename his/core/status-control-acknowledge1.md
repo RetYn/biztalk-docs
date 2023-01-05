@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: fc9e99f4-e690-4295-80d8-0e0a5d2365b9
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Status-Control(...) Acknowledge

@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: b85568e8-0108-4923-88ba-4ca28d3c9913
 caps.latest.revision: 5
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # OLE DB Provider-Specific Property Support in the OLE DB Provider for DB2

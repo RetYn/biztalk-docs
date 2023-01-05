@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 21048daf-1093-4c91-a08d-20811ae93312
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Protecting the Output from Tracing and Network Monitoring Activities

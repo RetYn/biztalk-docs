@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: ae17ff72-ed3e-48e1-833d-0f2295fe569e
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Icom3270 Interface

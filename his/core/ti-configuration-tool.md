@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: de30ea16-1251-4bf9-aa5c-82d4e687f344
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # TI Configuration Tool

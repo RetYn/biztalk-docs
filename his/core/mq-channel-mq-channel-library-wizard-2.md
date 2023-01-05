@@ -13,7 +13,7 @@ f1_keywords:
 ms.assetid: 53c055da-8059-4373-9aa3-cb6931c13ab8
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # MQ Channel (MQ Channel Library Wizard)

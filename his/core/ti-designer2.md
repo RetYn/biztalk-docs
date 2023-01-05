@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 2af1434f-1eb3-46b1-96d7-f7e4c0c07d93
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # TI Designer

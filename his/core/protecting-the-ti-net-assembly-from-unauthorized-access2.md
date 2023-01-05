@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 37b0ad05-29d5-4a7f-8336-c9af6e89f033
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Protecting the TI .NET Assembly from Unauthorized Access

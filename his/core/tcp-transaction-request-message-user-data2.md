@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: d17f218b-f00b-4b3d-907b-f1e415bd108b
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # TCP Transaction Request Message User Data

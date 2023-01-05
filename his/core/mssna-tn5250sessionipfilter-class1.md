@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: e3e6d553-43bb-4917-8ea3-2a25c0642678
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # MsSna_TN5250SessionIPFilter Class

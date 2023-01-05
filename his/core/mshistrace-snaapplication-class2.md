@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 577820f7-a423-4210-a38e-9e09b40fe28e
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # MsHisTrace_SNAApplication Class

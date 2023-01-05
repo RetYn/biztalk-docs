@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: aaeeb598-ac6c-4899-8770-598ef42ad58e
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Opening the PLU Connection

@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: e0dcfba5-5bd1-4359-9ea4-b35ef3d8f305
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # SNAGetPerfValues

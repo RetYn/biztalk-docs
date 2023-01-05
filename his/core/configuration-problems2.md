@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: b162a411-e4ed-4a75-9c66-f76cd0230e45
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Configuration Problems

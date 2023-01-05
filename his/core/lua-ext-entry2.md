@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 2bba5da6-711a-4a72-8cce-3a7d68761edd
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # LUA_EXT_ENTRY

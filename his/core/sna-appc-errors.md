@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: b13602e3-8634-495c-a663-2c1827eab85d
 caps.latest.revision: 5
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # SNA APPC Errors

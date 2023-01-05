@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: e410e451-cf74-42aa-ba80-3d96bb9fe090
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Printing the Screen (3270)

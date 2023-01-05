@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 19503eca-9c85-4ae3-b43e-f4079429139e
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Sync Point Support Architecture

@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 57869d64-7234-4fb4-a8ad-1c4c4e670ad8
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Client Interface Files for 3270 Applications

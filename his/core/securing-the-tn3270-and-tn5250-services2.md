@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 78eda385-c210-440c-8017-d85b9917f8ff
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Securing the TN3270 and TN5250 Services

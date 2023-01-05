@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 5af7a974-94b8-476f-b391-6a2c0ccc1782
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # IPropertyBag Methods1

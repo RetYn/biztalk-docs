@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 7b668b32-56a6-4a6c-b2c9-133c63865a04
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # ISSOConfigDB Methods

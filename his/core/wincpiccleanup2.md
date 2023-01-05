@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 580f5ef8-fe51-4ea7-871c-d88e788d411b
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # WinCPICCleanup

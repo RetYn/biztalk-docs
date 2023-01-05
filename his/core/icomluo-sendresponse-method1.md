@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 4550f2ba-c5c6-4457-af6f-bdeedebf0a82
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # IcomLUO.SendResponse Method

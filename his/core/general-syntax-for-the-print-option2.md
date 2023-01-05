@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 7016a1c9-83c0-47da-bf34-293640562361
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # General Syntax for the /print Option

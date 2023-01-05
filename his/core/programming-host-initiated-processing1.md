@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 38c61788-3260-4059-be43-cfc6690c776b
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Programming Host-Initiated Processing

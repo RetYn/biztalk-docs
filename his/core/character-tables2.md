@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 73f87cfa-eb80-4d03-ad99-dc3718ef798f
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Character Tables

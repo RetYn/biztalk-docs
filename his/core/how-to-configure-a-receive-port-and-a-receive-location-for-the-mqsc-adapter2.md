@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 16871704-2295-44ef-b414-6bd1e28ed7ce
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # How to Configure a Receive Port and a Receive Location for the MQSC Adapter

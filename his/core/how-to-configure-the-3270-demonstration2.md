@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 3637f288-a621-41d5-991f-9ac7f248bed6
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # How to Configure the 3270 Demonstration

@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: ae10bc29-2f4d-40a5-824b-3fd0ca62c560
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Keypad Menu (5250)

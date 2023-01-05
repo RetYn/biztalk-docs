@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 4eefd7e0-6406-4f81-a8f6-6e646e3cdf1c
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # SNA Internationalization Programmer&#39;s Reference

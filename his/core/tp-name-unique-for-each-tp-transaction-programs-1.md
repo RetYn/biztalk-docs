@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: e64547c2-124c-4503-8b2b-963e38fda53d
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # TP Name Unique for Each TP (Transaction Programs)

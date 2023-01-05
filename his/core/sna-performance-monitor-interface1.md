@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: dcc13cf1-1113-4f90-8b36-2a51bf48eb29
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # SNA Performance Monitor Interface

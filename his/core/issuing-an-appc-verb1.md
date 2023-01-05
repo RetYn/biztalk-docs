@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: f3819c4d-570c-4a2a-a9b5-422b2f6bbe41
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Issuing an APPC Verb

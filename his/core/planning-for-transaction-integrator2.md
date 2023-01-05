@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 3baca727-234d-494b-93a2-0be91efa6d1a
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Planning for Transaction Integrator

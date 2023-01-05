@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: bcbe82f3-4736-40f8-9767-5df2370d77b4
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Creating and Managing Remote Environments with TI Manager

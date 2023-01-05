@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 6e842e47-50a7-4540-a4cd-10c4765423bc
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Host Integration Server Support

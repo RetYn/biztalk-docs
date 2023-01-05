@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: fbe4fb63-cced-4349-bb32-848c7cee243a
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Creating a Remote Environment

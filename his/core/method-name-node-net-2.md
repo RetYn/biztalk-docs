@@ -13,7 +13,7 @@ f1_keywords:
 ms.assetid: 31c93479-31d1-434e-8ae3-4d349028c8ab
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Method Name Node (.NET)

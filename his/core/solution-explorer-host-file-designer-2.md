@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 38f615f8-c854-4c5a-9bde-133d4d865e00
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Solution Explorer (Host File Designer)

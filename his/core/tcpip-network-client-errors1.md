@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 80516be7-dd32-4918-8964-b8f658c86e24
 caps.latest.revision: 6
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # TCPIP Network Client Errors

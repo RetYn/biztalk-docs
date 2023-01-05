@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 912d4609-f866-437a-889a-3776f09568d3
 caps.latest.revision: 5
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Resource Location for Open SSCP

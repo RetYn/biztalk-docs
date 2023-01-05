@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 29ec253a-759d-414a-a9a3-ef43d8bff039
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # WIP Programming Model

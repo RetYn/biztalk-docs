@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: c896429d-15c8-4418-83f2-d1db9cdf81c9
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # ODBC Conformance

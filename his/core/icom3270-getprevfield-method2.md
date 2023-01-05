@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 18827107-e4ce-4464-9658-f34e6245c899
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Icom3270.getPrevField Method

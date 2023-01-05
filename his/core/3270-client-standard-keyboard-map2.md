@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: c9428121-69da-450c-8212-a8903ca62516
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # 3270 Client Standard Keyboard Map

@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 128aa5bf-3efd-4a8d-a1cc-acb0d7b07cf3
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Function 0x61: Get/Set Interface Record

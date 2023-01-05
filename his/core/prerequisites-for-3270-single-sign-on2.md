@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: ab7b5088-f8c5-4de4-b728-c0a3979b927f
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Prerequisites for 3270 Single Sign-On

@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 40cf0e60-b52b-4082-bdfa-4f070c52aef6
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # fFindString

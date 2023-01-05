@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 0df6508b-01b4-4afb-b4c8-b6931002e0ce
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Programming Techniques for LUA Pools

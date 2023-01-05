@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: f5ef32ff-4001-45b2-8c98-f578cbc5e36e
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # MsSnaStatus_PrintSession.Restart Method

@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: c70902b3-1f07-44d9-af20-ee48fa24d28b
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # fConnectRegistry

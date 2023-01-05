@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: c93ae8b1-8819-423d-b991-0ada5da478f8
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # SPasswordChange.psaNewExternalPassword Field

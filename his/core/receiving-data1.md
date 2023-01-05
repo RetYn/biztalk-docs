@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 6aa05d6d-c0a7-400a-9c6d-846c7c23e230
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Receiving Data

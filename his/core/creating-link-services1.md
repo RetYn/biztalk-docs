@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 108cda4f-571b-4008-b88f-94ddf7febf44
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Creating Link Services

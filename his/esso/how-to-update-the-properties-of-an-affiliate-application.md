@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: f7a793f1-abf6-4378-a4ee-f1e174f4e29f
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # How to Update the Properties of an Affiliate Application

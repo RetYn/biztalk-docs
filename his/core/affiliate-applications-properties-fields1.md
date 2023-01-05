@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 469438dd-9b8e-41e5-b953-14f62eaad2f0
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Affiliate Applications Properties: Fields

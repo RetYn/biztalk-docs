@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: dca14204-a176-425f-b12d-a64328f6ae03
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Planning and Architecting Solutions Using Data Clients

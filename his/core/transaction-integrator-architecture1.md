@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: dd490ba6-d982-45a7-937d-2fb7b6e56e25
 caps.latest.revision: 5
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Transaction Integrator Architecture

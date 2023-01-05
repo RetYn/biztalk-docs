@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: ef00ea02-f24f-45f6-9779-a1816d946514
 caps.latest.revision: 2
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # ESSO Security Policies

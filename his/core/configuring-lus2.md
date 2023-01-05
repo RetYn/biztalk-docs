@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 6b94f422-512a-4e0a-a64f-22def10fc043
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Configuring LUs

@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 1ff05ae9-2463-4ab7-b6ad-b7c5bea478d9
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # MsHisTrace_TN3270 Class

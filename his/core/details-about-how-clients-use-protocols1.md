@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 8b20a9b0-e30d-436e-99d2-bcbcd7db4ebc
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Details about How Clients Use Protocols

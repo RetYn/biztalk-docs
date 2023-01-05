@@ -6,7 +6,7 @@ ms.date: 01/03/2018
 ms.prod: "host-integration-server"
 ms.topic: "article"
 author: "hcamposu"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "hcamposu"
 ---
 

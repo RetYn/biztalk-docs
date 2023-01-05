@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 1a807798-e4df-4694-8b77-45df2519d5d0
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Send-XID

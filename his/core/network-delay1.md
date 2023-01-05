@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 85f4e8dd-83ec-412e-abc5-f4c9da5c7eda
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Network Delay

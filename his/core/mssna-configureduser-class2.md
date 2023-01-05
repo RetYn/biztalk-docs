@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 1da37b82-6ba8-404a-b816-4a16efc64765
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # MsSna_ConfiguredUser Class

@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: ba0bf357-7632-4c38-9979-336de4c0c02a
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # Closing the PLU Connection

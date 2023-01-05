@@ -11,7 +11,7 @@ ms.topic: "article"
 ms.assetid: 5b03ff24-bd52-44c2-b29e-df55ee9e8abb
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
+ms.author: "test"
 manager: "anneta"
 ---
 # TN3270 Access
