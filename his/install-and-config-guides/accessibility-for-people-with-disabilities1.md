@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: fa1fcb16-4eaa-47b0-a18a-7c1f5fbf6fe2
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Accessibility for People with Disabilities

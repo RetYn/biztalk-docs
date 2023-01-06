@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: e8397f7c-199c-49e3-88b8-003150853045
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Use a Command File

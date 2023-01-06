@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 30349926-2c2c-4cdf-9a33-9d731c06426b
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Create New Affiliate Application Wizard

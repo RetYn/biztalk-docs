@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 494ed9e3-ed1f-49ec-b136-55a718df72b0
 caps.latest.revision: 2
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Data Clients Troubleshooting Common Problems

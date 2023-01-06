@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 7ad5a28d-f6e8-4f2d-b0e6-dbf7d4b7a0e6
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Supported TI Data Types

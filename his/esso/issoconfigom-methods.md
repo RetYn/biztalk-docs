@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: f75a84cc-a751-453d-9eaf-f863e2c917a6
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # ISSOConfigOM Methods

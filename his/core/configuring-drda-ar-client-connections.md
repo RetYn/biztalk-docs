@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: b9025c59-5f41-45d5-937a-a1151b01a0f9
 caps.latest.revision: 7
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Configuring DRDA AR Client Connections

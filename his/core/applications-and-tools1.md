@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 86a27e92-0376-4589-a2db-a0556a117f2e
 caps.latest.revision: 6
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Applications and Tools

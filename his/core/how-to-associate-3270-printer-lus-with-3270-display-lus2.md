@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 1d5d9353-e147-47c3-8452-e156ad8f068e
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # How to Associate 3270 Printer LUs with 3270 Display LUs

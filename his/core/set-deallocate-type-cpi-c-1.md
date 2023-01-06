@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: c89a7192-148c-4bbb-8124-493681e4852c
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Set_Deallocate_Type (CPI-C)

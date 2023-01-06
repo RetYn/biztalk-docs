@@ -13,7 +13,6 @@ f1_keywords:
 ms.assetid: 86d967fc-162c-47c1-b608-4ad8057b1464
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Interface Name Node (.NET)

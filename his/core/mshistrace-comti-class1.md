@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: f9340303-8f6a-4fff-9f34-dca17dca6778
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # MsHisTrace_COMTI Class

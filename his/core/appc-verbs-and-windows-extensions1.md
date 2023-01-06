@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: f5bf835f-4570-484f-9f40-7d9f494d9aff
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # APPC Verbs and Windows Extensions

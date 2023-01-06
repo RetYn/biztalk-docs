@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: f7fa278e-b691-45e7-b690-b6ae4435779a
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Resource Security

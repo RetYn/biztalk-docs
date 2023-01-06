@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 873d35d4-d2e6-4efa-96eb-18114f050d2d
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Inbound Data

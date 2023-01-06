@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 16678e3d-eb24-4f1d-aa95-f786f4ef93be
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # BizTalk Adapter for WebSphere MQ

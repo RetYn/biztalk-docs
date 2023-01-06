@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: ceb0d6ca-6225-4061-823f-ddf82277ae73
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Sync Point Backout Support

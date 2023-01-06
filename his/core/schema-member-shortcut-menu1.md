@@ -13,7 +13,6 @@ f1_keywords:
 ms.assetid: a3736604-feee-4b7e-aaf7-22f46d749b37
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Schema Member Shortcut Menu

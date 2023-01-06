@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 6e5cf870-b90e-4f6d-ad2e-6a9a7644cbc6
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # ELM Format for the TCP ELM Link Programming Model

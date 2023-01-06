@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 7b26c8b2-7b0e-4ee8-a9f5-3325ccaebd44
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Status-Session Message

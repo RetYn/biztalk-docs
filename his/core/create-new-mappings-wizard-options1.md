@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: b3ed498a-89df-402d-980b-5af8ba96a2fb
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Create New Mappings Wizard: Options

@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 7b3075e0-8fb2-4ff4-b132-60a64d53d490
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Icom3270.getFieldData Method

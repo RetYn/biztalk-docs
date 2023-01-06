@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 19c9833d-7d5e-491d-b7f6-e4653175622c
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Config Lock and Out-of-Date Messages in the Status Bar

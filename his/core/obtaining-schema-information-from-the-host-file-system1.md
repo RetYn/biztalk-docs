@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: a0495cf8-369d-4431-ab53-3c66bc45657b
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Obtaining Schema Information from the Host File System

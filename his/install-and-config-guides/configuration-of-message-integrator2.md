@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 174028e5-e2dd-4b51-8399-da627261268a
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Configure Message Integrator

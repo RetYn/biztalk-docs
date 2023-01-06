@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: efb6101a-260c-4dbf-b684-b6b4885cd53c
 caps.latest.revision: 2
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # hostIntegration.drda.sqlErrorMappings

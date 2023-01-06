@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: cd834865-1c05-4c60-b8a0-eda4e206bcf8
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Function 0x46: Abort Receiver

@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: cd2457b8-8461-4a6f-bedd-f5def73d3cd3
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # ISSOMapper2.GetApplications2 Method

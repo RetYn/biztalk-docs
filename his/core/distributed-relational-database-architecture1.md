@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 551404bf-3bb2-4d7d-8064-801df8177397
 caps.latest.revision: 2
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Distributed Relational Database Architecture

@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 6cd5fffa-e5d1-4506-a9cf-fcb1dccf0212
 caps.latest.revision: 2
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Custom Listeners

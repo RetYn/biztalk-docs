@@ -13,7 +13,6 @@ f1_keywords:
 ms.assetid: cf41b98c-def8-477a-8c5f-cafddb2c022e
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Local APPC LUs Folder

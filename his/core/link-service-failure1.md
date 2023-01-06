@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: dfd4de53-4ef3-401b-b14c-f5fee76a9781
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Link Service Failure

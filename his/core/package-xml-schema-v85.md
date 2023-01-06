@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: d987e50a-9153-4807-aa90-d239d2b68add
 caps.latest.revision: 2
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Package XML Schema V85

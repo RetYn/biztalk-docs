@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 9c93955c-1e31-4140-8ec4-b7c7b399b117
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Presentation Header Support in Data Transfers

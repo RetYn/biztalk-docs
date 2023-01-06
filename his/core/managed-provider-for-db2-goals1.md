@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: c2c010c5-bfca-4a7b-9e5c-4521cc96654c
 caps.latest.revision: 5
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Managed Provider for DB2 Goals

@@ -13,7 +13,6 @@ f1_keywords:
 ms.assetid: daf8a398-8d3a-42e8-b2ab-6d55ff844657
 caps.latest.revision: 5
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Library Shortcut Menu (Host File Designer)

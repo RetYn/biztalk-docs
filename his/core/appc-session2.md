@@ -13,7 +13,6 @@ f1_keywords:
 ms.assetid: a8df5bfa-ac55-4bbf-9f34-d5a92cb60e63
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # APPC Session

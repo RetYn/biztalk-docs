@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 21b6852e-efa3-4384-b273-695633ed7723
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Optimizing Communications

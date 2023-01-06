@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: bd663bf4-1c75-423c-bef8-dc2bbfd40eeb
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Creating a Windows-Initiated Application

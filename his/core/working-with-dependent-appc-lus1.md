@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: cdd3d653-8823-4428-bb1c-aad8fda608a4
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Working with Dependent APPC LUs

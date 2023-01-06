@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 13676f5f-7fa1-4772-bc1b-f16f47d337d4
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # How to Import a TI Component

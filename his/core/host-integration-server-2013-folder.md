@@ -13,7 +13,6 @@ f1_keywords:
 ms.assetid: 28ecd6d1-e680-44fb-9d76-d22dd65ba64e
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Host Integration Server 2013 Folder

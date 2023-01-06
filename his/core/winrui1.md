@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: bf1c85f1-da11-41ed-a11d-e7ff61708004
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # WinRUI

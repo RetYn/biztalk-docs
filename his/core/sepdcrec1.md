@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 8d8c2148-7e61-45f5-b167-7614a365a6b6
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # sepdcrec

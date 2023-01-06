@@ -13,7 +13,6 @@ f1_keywords:
 ms.assetid: 7b05f913-0863-4202-8f68-7e4ce3f32e05
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Connections Folder

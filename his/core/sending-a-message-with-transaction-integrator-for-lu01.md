@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: b4fa3793-8ed8-4e6c-9d02-4aa130e133c2
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Sending a Message with Transaction Integrator for LU0

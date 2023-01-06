@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: df09f0b6-3621-473c-b3a1-8bae02c2c660
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Clients Running Windows

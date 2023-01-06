@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: ded2fc94-86c1-4e18-83d5-72cb3441bf20
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Independent APPC LUs

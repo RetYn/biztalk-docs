@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: f65a7319-8462-40f9-96b5-5e56f83dffbe
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Session Object (OLE DB Provider for DB2)

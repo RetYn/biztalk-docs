@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 80d7da1e-9965-4e67-be2c-b9123b175e82
 caps.latest.revision: 5
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # National Language Support in Windows

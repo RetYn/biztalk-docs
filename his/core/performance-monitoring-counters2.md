@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 56c5abf3-922c-4dfc-aed7-a27b0a3a415f
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Performance Monitoring Counters

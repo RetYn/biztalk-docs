@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 6255e6bb-10ec-4b56-a494-058ff4cdb3c1
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Objects Metadata Definitions

@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: f113b90c-649b-4e26-8ee7-6a0f7b5ffb04
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # RECEIVE_ALLOCATE_EX_END

@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: b355bbaf-a0d2-4667-b4c4-a45a59b0bf0a
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # SEND_DATA

@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 96f943a6-3662-4c58-b94f-d29039871752
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # How to Save Event Logs

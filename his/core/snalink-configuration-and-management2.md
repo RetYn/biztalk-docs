@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 12c4fe82-8aa1-498e-850a-0d2ac74f79d4
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # SNALink Configuration and Management

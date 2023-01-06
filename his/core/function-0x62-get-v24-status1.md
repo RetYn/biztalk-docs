@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: b7416811-b67a-4e1d-85e2-65e8718a1c44
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Function 0x62: Get V24 Status

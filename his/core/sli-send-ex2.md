@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: ca2a9c85-af50-462f-a27d-b9ec489e6faa
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # SLI_SEND_EX

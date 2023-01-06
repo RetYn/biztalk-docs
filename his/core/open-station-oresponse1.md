@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 8c49f3b3-f6ee-4ca6-b053-2f8651f17911
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Open(STATION) OResponse

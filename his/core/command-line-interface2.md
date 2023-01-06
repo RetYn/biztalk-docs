@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 73ef2a45-646e-4cc7-90a0-a730da44b1b6
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Command-Line Interface

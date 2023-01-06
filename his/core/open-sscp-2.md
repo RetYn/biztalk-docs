@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 093aec04-9055-4bad-8c97-4ad676047f4b
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Open(SSCP)

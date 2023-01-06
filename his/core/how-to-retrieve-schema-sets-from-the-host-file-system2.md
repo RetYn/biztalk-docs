@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 27b4f55f-8a87-47f8-bc3a-f5642f4f997c
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # How to Retrieve Schema Sets from the Host File System

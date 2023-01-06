@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 81147928-933d-4333-8554-787c027249a8
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # ADO Recordsets vs. User-Defined Types in Structured Data Tests

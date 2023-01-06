@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: df8aee5d-e314-4c39-b130-99f7808124bb
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Configuring RTM in Host Integration Server

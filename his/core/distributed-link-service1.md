@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 9a30704f-65e6-4232-8040-931983136c16
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Distributed Link Service

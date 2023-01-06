@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: cb3d7d39-39b3-4f8c-a577-67ecde7fd015
 caps.latest.revision: 5
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Standard Installation Options
