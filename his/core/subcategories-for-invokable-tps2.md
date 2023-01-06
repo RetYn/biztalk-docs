@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: d596df4c-0252-423d-a845-bd5bf17d8033
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Subcategories for Invokable TPs

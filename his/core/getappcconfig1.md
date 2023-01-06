@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: d7b92ade-7ffb-4380-9720-bd1ee47b11aa
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # GetAppcConfig

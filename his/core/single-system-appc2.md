@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: a3ebf3dc-b317-424c-b680-49b6aeb9d5d9
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Single-System APPC

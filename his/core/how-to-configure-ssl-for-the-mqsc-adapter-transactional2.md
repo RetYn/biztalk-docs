@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 1ee1d8d1-61b6-4480-b7a1-93f20f6f4891
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # How to Configure SSL for the MQSC Adapter: Transactional

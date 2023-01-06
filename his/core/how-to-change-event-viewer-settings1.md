@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: b933418e-addb-40cd-ab0d-b3d4e2672b28
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # How to Change Event Viewer Settings

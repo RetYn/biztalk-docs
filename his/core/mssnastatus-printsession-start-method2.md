@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 5b8a3c44-7cea-4f24-99ea-7a377b70fac9
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # MsSnaStatus_PrintSession.Start Method

@@ -13,7 +13,6 @@ f1_keywords:
 ms.assetid: 2ce4a6c3-ee64-47a9-9fb9-c8b048997759
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Unions Shortcut Menu (Host File Designer)

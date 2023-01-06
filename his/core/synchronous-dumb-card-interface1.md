@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: fe78b2b6-afd9-4a4b-b91f-c96079e2a3b3
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Synchronous Dumb Card Interface

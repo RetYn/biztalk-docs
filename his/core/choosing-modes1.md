@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: b917edcd-5687-4bce-a81b-670c4615554d
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Choosing Modes

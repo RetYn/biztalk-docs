@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 4e7fce4f-5f66-4782-a898-c5a36750222c
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # MsSna_Connection.Start Method

@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 65776df3-b005-493d-bc87-d53e30b1bf49
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Opening a Connection (SNADIS)

@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: aba95d20-af09-4a9b-b928-39e894d4ae9c
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # MsSna_LinkService_IpDlc.GetAllNetworkAdapters Method

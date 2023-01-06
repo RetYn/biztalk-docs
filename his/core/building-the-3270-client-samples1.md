@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: a2b62a8a-487d-4af4-af02-15d1677d179e
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Building the 3270 Client Samples

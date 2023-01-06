@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: cafcb4c8-73bd-4d5c-84ba-7076293eb3a3
 caps.latest.revision: 6
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Communication Between Host Integration Server Computers and Client Computers

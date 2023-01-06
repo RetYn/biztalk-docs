@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 695fe7aa-e3c5-4ff8-84c6-a561cce54884
 caps.latest.revision: 5
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Enterprise Single Sign-On Basics

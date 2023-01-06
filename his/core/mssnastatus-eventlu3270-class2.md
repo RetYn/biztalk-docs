@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 0216eed9-a572-4163-9502-be9308ad49dc
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # MsSnaStatus_EventLu3270 Class

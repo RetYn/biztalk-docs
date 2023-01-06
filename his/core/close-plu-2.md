@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 5485362d-5d08-4193-9ad4-0a44e629fd1d
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Close(PLU)

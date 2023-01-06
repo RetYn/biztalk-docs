@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 34a85aaa-a492-4c53-93c9-4461eda005f4
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Extracting LUWIDs

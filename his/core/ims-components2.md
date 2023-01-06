@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 1b237458-0338-4560-93cd-ed19f59e7722
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # IMS Components

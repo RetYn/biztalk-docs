@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 130a2b61-6965-465a-9032-7aa74c9de749
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # MsSna_Lu3270 Class

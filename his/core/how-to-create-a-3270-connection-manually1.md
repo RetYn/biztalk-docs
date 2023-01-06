@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 58aa07fc-b4b4-4dd4-bbaf-66ee5bc88fe3
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # How to Create a 3270 Connection Manually

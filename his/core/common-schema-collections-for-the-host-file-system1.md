@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: c3721784-6aa7-464d-b3c8-488c29ba3abe
 caps.latest.revision: 5
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Common Schema Collections for the Host File System

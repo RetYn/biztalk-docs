@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: d4404b30-6a20-495d-aa71-0b104721327f
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # MsSna_AccountAssignedLua Class

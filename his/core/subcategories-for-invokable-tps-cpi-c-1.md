@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: f2edf7ee-e481-4d66-b513-29231aeade51
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Subcategories for Invokable TPs (CPI-C)

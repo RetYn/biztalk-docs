@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 542d42fe-d247-4c32-8226-2c037aee105c
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # LUA Primary Return Codes

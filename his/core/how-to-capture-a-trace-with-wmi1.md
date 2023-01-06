@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: b295b485-10de-4495-9ea2-45661f896258
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # How to Capture a Trace with WMI

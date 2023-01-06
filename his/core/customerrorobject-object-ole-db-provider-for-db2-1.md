@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: e74c7b0c-9ece-4dec-bbbf-1ac182813bed
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # CustomErrorObject Object (OLE DB Provider for DB2)

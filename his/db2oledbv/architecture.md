@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 948b4e9e-cf97-4b3d-99d2-037d7086c3b0
 caps.latest.revision: 5
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Architecture

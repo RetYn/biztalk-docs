@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 064a26e0-082b-40a4-a254-3a10f213fe65
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # How to List Affiliate Applications

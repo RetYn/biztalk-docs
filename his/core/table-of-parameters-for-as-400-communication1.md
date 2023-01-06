@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 86671769-de22-48bf-99bb-4c408b25efad
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Table of Parameters for AS/400 Communication

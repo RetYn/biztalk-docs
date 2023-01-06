@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: a2026178-2cab-497d-94de-098ed1be9428
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # How to Retrieve Multiple Instances

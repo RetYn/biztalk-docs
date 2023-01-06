@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: aa049933-0871-47ce-9b9e-c9f707120c52
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Installing Data Provider Version 6.0

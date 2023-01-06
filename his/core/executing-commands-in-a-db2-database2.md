@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 8c1a9736-7a3a-41fd-8fa1-e27420fa4497
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Execute Commands in a DB2 Database

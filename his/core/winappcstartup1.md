@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: b7d0702d-fa4a-4a35-a4de-2edfabf8582b
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # WinAPPCStartup

@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: fc74a570-fe3b-4473-83bf-1cb07cf6f719
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Half-Duplex Contention

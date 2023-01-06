@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 855a7e74-1f24-4227-87dc-d78cd7d62bb9
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Compiling and Linking 3270 Client Applications

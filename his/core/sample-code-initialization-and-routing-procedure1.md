@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 4753b023-0d58-4064-be9b-4fe520de0bde
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Sample Code: Initialization and Routing Procedure

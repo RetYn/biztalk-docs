@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: ec1f07fe-b68e-4ae8-a294-d69265e51ee5
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # SLI_BIND_ROUTINE

@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: bbc4c7ef-8186-499f-92ce-55fd81caeb84
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Kerberos Support

@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: b2f9e377-9e78-4c51-a78b-5447ebe048df
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Logical Records Used in Basic Conversations (CPI-C)

@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 173941fd-913b-43b2-aecb-82e5db356d87
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # How to Use Variable Length Recordsets with Transaction Integrator

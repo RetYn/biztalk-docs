@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: a04e500f-9a1b-4003-98b3-2b7f31278805
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Supported .NET Aggregate Data Types

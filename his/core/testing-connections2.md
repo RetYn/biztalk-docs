@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 55e3cf84-1893-4023-82c5-5f8f313adf5f
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Testing Connections

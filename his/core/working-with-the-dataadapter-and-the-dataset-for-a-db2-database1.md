@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: ee74d63a-0bb0-4cc6-b3d2-284efd3560da
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Working with the DataAdapter and the DataSet for a DB2 Database

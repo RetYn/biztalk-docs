@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 62a6c529-df9c-429c-a5dc-2ff8a1aa89e2
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # CMDSemRequest

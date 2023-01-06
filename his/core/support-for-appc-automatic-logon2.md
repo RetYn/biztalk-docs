@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 3ebf9e8c-bee3-4ed2-8de1-0a5a069d015c
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Support for APPC Automatic Logon

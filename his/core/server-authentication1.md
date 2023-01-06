@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 94ae37a9-9d9a-4ac9-84b9-99932d47dd8e
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Server Authentication

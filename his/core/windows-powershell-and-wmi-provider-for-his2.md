@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: ba4b6249-c13b-4975-833d-e3c01e2a5027
 caps.latest.revision: 8
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Windows PowerShell and WMI Provider for HIS

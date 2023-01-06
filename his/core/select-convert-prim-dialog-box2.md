@@ -13,7 +13,6 @@ f1_keywords:
 ms.assetid: 316ac873-619a-4412-98b6-cd63ae6fd282
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Select Convert Prim Dialog Box

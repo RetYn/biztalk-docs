@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: b537ddc1-d340-4481-8d4b-f32c34c6e11b
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Accessing a Host Integration Server Property through WMI

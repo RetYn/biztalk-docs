@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: d81c496f-a6b5-427b-b5c0-9ce00573ad6a
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # ReadContext

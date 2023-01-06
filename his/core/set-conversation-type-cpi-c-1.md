@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: cbbc2460-0a51-438a-a5cb-56b8f3a25156
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Set_Conversation_Type (CPI-C)

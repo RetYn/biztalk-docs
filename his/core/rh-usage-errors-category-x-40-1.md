@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: c1445313-cd22-452d-9492-c4384f4416f7
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # RH Usage Errors (Category X&#39;40&#39;)

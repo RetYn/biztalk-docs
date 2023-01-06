@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 1be4a615-e628-43bd-99be-1f8d67842a95
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Deployment Process

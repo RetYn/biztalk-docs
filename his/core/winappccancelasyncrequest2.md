@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 4c82d700-a02e-451c-8a47-1e18d12b7dda
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # WinAPPCCancelAsyncRequest

@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: cc1ceb32-9fa4-468c-a4b5-b1bd530806d4
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # bStopService

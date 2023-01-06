@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 91961d49-ca06-4296-8e76-a8c94a945f42
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Token Ring Link Statistics

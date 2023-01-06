@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: c32375ba-b254-4c1a-8479-3f03eac58a8f
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Storing and Retrieving Connection Strings

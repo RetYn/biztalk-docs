@@ -13,7 +13,6 @@ f1_keywords:
 ms.assetid: 95f2cbd5-d078-4339-8d1d-f8b6c68ad45b
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Data Table Member Name Node

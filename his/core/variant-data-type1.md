@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: f2b500d8-0979-4c49-8f19-0842011a0ea6
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Variant Data Type

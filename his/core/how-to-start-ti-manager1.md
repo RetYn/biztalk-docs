@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 6e65d569-2312-4a0d-84af-8b2205bd51bf
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # How to Start TI Manager

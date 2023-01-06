@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 287edd57-171d-49ca-93b5-5064ca998de3
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Data Integration (Configuration)

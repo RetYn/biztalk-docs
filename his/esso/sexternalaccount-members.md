@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 5022eb3e-e328-4419-8523-59b6c7a226eb
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # SExternalAccount Members

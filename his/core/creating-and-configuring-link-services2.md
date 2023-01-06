@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 672ea498-f977-430d-b791-80474dc542ba
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Creating and Configuring Link Services

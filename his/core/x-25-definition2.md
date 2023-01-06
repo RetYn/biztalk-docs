@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 0c7d87a6-90ac-4e17-9c46-c7fe548cd318
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # X.25 Definition

@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: f9b54038-e44e-48ce-bebc-af4986409788
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # LUA_SPECIFIC.SLI_OPEN

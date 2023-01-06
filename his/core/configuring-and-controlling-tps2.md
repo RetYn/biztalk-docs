@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 4a081d6a-2c75-4e22-9597-69702e7b5c0d
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Configuring and Controlling TPs

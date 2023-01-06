@@ -13,7 +13,6 @@ f1_keywords:
 ms.assetid: c158997c-0301-4766-8543-8ddf5272bb69
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Trace File Directory Tab

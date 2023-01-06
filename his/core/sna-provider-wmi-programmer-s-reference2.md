@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: bc703496-f7b9-411c-856c-8b1f858957a0
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # SNA Provider WMI Programmer&#39;s Reference

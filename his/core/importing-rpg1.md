@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: f92dbf14-565d-4446-85ac-3214582786b0
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Importing RPG

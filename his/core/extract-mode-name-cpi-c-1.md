@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: a900649b-f312-4a9c-99a1-dc694cdfa5c8
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Extract_Mode_Name (CPI-C)

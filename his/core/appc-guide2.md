@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 230cce2c-7926-4f42-a0e7-b2b5ead53850
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # APPC Guide

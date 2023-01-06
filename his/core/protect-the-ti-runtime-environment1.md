@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: de0c7dba-9754-485e-b989-5cd385e81a27
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Protect the TI Runtime Environment

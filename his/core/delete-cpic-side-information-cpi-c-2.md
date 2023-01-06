@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 9238d741-aa17-4187-8ff0-f7213cb428fb
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Delete_CPIC_Side_Information (CPI-C)

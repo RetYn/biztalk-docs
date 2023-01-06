@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 8fdae53c-ad33-4cf1-a20a-f34c44ffc18a
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Sending a Message with Session Integrator for LU2

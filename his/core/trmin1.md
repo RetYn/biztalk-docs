@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 9189b3a1-b3ce-4efe-b315-ef941415f9e8
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # TRMIN

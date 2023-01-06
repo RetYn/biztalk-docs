@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: efa6787c-12ae-45be-b532-6518fe3eaef3
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Mode Definition Information
