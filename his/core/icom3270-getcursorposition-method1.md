@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: c8b793f4-c759-4724-8d75-307be942578e
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Icom3270.getCursorPosition Method

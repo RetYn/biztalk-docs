@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 5d37235c-e840-47ac-8587-edd73ecf4e1e
 caps.latest.revision: 5
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # How to Configure ENTSSO for ILM Password Sync

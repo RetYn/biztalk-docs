@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 18b7de30-6617-46ce-9a87-fcd9142171f9
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # SDLC Connection Parameters

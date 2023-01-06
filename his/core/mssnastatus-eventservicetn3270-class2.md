@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: c26c603d-3487-4d42-b7e8-c2c2062809f2
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # MsSnaStatus_EventServiceTN3270 Class

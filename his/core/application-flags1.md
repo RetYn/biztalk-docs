@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 364d7c17-320e-4786-92f7-bbe346d482ed
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Application Flags

@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 1465251a-6c18-4bae-b0d8-6c7f5a17dd60
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # SExternalAccount Structure

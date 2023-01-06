@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 02a78093-3219-40b2-8874-6315fc18fd60
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Direction after Sending a Negative Response

@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 819ca1a9-50ff-4e5a-b514-cced3b588c31
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Output Area Wizard Page

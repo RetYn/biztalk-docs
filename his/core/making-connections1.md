@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 8c02e13e-8ab7-42d5-81d6-0f935fb3a761
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Making Connections

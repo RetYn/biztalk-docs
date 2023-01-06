@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 9b954fdf-ae1d-43c0-adb2-d5b39b2b1f10
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Status-Acknowledge(Ack)

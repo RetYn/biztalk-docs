@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 4227cd29-e270-4f68-a2dd-8c50a7b70aa9
 caps.latest.revision: 5
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Data Source Wizard (Host Files)

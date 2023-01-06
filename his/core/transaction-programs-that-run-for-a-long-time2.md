@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 1f1c7650-7bca-4efd-a110-b6b8492b6bf4
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Transaction Programs that Run for a Long Time

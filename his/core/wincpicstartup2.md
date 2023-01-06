@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 1a43284b-8448-4eff-a716-2c16ad9a8e2a
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # WinCPICStartup

@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 7cba999d-fd64-43a4-b931-30dc15b528be
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # SNA Services Enhancement to the Windows LUA Environment

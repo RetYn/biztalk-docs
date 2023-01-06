@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: b8066d28-285a-40ce-8cf5-e1be6b113ec1
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # ISSOMapper.SetExternalCredentials Method

@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: ac70524c-11f4-4047-a449-80fe20d27815
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # SetupMessage

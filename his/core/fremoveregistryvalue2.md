@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 506ec5df-28a5-4fe1-9354-7cc034751fa1
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # fRemoveRegistryValue

@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: db6e0d2c-d56c-4034-a4fb-1aedcfcf0859
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # TI Component Properties

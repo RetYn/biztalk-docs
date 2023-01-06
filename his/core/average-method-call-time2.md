@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 34da35a8-640c-4acc-a820-9c40128f8f43
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Average Method Call Time

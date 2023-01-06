@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: d6694a53-5001-4e2a-abc2-b1257663ab09
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Connection Initialization Sequence

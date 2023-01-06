@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 4f96b1f5-13ec-4ece-bd0d-e084c91090e3
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Overview of Network Protocols for Clients

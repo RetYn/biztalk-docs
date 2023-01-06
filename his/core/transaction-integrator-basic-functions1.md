@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: f3825d27-c27d-443a-bfce-af2af23885f2
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Transaction Integrator Basic Functions

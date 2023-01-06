@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: a9ca80fb-c5bd-4dec-9e6c-362473f48e68
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # How to Create a 3270 Printer LU

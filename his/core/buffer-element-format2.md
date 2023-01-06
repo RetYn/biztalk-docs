@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 1a54053b-20d4-4682-9853-448892fb0e7a
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Buffer Element Format

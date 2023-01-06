@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: a077000a-c7f7-4759-9da6-0507ee211859
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # How to Configure a Client Channel Definition File

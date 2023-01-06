@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 626d4130-f3b7-40b6-92ba-ef9526125433
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Locally Initiated Conversations

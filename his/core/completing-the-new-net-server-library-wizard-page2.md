@@ -13,7 +13,6 @@ f1_keywords:
 ms.assetid: 5ddac0f5-bbaf-4717-9b74-6b4296445766
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Completing the New .NET Server Library Wizard Page

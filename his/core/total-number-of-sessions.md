@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 0273cf83-6118-4f04-8971-7addaab9c614
 caps.latest.revision: 5
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Hardware capacity planning

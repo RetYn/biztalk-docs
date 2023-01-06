@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 8c4b4003-a3ba-4d50-9316-a48aa110ca75
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # How to Find Events

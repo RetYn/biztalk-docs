@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 02ba271f-ff56-4a42-8c62-8684d33c6b18
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Examples of Syntax for the /print Option

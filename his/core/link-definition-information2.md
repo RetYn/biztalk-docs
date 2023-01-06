@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 6e93454d-2e8e-4d5b-8339-8f0d2003ddbe
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Link Definition Information

@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: b8cf03a4-345d-4370-9e5e-4ee1fa967632
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Relationships between the .NET Provider for DB2 Interfaces

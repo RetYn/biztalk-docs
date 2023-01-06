@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: e3beeb58-088a-46a0-9848-676da12da1de
 caps.latest.revision: 2
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Support for ODBC 3 Functions

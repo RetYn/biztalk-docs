@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: a47d910e-644e-49f3-aaba-37844e595aca
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Status-Acknowledge Message

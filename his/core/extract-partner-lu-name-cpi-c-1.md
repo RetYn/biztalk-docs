@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 9dfd0e40-5fde-4937-9d88-0b41a6ada8fc
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Extract_Partner_LU_Name (CPI-C)

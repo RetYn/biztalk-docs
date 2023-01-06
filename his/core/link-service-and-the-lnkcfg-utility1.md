@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: bc11196a-5cdd-4b94-baa1-03181e46a1f3
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Link Service and the LnkCfg Utility

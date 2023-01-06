@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 6dd1fc47-5e22-48f0-be56-b1da05e35257
 caps.latest.revision: 7
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # DRDA Service Protection

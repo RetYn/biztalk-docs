@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: abf52298-6d32-4369-afff-919f4757dbfa
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Host Integration Server and WMI on a Backup Server

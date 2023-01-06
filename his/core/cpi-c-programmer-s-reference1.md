@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: fde0eda5-6ba0-4fb3-be41-6c4fb904ed07
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # CPI-C Programmer's Reference

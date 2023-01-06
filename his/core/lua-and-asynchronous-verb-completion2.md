@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 55daa571-7f93-46d3-9fca-ed3ab542c56b
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # LUA and Asynchronous Verb Completion

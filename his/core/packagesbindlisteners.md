@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: a3e3adff-b953-4946-b7fb-fab0e9d75085
 caps.latest.revision: 2
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # packagesBindListeners

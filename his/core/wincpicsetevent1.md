@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: c5a0b5eb-2534-42c8-8b6e-c1042c9aeb39
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # WinCPICSetEvent

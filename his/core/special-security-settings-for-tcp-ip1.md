@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: e1474e13-b786-4694-92bd-359d53cb4c6e
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Special Security Settings for TCP/IP

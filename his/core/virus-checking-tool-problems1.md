@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: f5f42294-985c-41cf-a370-dbd2ae25c380
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Virus-Checking Tool Problems

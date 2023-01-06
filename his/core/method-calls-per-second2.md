@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 2aa4570e-9a87-4aea-b66b-7c9ea293bfb2
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Method Calls per Second

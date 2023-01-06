@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: a07216fe-3ec0-4664-85aa-c61d27143cc5
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # How to Import COBOL into a TI Component

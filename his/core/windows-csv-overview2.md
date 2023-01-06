@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: eabeec74-ad30-4991-828e-57243df45743
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Windows CSV Overview

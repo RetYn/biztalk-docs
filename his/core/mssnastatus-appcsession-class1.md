@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: acfc8f4e-9b09-44c9-bce9-2943f27bfbe5
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # MsSnaStatus_AppcSession Class

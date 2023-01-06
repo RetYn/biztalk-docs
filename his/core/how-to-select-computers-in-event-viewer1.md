@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 9cff2172-da2a-4476-9433-571f4925240c
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # How to Select Computers in Event Viewer

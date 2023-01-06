@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 48719e17-6138-4299-a479-eb2122386c93
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Supported Platforms for Session Integrator

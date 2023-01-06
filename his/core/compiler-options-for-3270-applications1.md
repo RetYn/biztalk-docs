@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: b6e14f7f-f1e9-4963-81c3-bfe56b6dd102
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Compiler Options for 3270 Applications

@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 44384b89-9bd7-4d28-8525-2c9fe1e61fe0
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # ISSOMapping.WindowsUserName Property

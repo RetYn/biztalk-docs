@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: cb8e9582-86b4-4367-8dbd-bd8856190a16
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # SNA Considerations with LUA

@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: db5b394a-a86b-473f-a678-1fe8f155709f
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # SNA Sense Codes

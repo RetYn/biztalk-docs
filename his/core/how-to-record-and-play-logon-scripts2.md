@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 120d8fcf-b6fd-4e5f-989d-07634bc5424a
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # How to Record and Play Logon Scripts

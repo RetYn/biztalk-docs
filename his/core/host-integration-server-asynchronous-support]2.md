@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 042d2711-a497-40f1-a368-c197311378b8
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Host Integration Server Asynchronous Support]

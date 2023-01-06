@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 6f5c2285-d96c-40a4-9bf4-bfffa8b4074f
 caps.latest.revision: 5
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Installing WMI Providers on a Host Integration Server

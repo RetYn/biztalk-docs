@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 421f5c62-c434-4866-8379-50b7fe145a24
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Extract_Conversation_State (CPI-C)

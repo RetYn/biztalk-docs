@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 7d3282c5-04b7-42dd-91ea-b204f7ba47e5
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Accept_Conversation (CPI-C)

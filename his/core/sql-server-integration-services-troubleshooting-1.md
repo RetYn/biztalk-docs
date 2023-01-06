@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 5aebf5f8-f606-40ce-9c08-78af833ded4a
 caps.latest.revision: 5
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # SQL Server Integration Services (Troubleshooting)

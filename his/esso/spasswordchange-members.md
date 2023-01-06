@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: bb323ca5-2253-4195-8d52-f84350ba9218
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # SPasswordChange Members

@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 2e739a85-4bdc-42e2-a321-ab00c9e839f7
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # SQL Server

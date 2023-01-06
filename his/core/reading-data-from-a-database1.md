@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: bc3a5b72-9e9b-4656-bc01-7889c2c9892b
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Read Data from a Database

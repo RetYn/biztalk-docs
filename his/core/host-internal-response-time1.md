@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: a9b5a62c-ae1e-4c02-b7c4-966682d8806c
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Host Internal Response Time

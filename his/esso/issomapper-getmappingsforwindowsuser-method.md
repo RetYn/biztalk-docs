@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 5efe1743-195e-4d14-a7dd-b015307c39a0
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # ISSOMapper.GetMappingsForWindowsUser Method

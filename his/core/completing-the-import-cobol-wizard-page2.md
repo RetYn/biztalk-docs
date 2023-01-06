@@ -13,7 +13,6 @@ f1_keywords:
 ms.assetid: aa8575bb-392d-468a-a760-a75dee58e807
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Completing the Import COBOL Wizard Page

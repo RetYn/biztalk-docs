@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 99e6b9f2-3753-4217-872e-bd957d7b2636
 caps.latest.revision: 2
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # dateTimeMasks

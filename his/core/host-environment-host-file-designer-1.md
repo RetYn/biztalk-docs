@@ -13,7 +13,6 @@ f1_keywords:
 ms.assetid: b690931e-2823-4f72-beca-f8e55db91121
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Host Environment (Host File Designer)

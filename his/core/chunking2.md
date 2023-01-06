@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 1f3371b6-4cfb-477c-a2ee-638f13a8771d
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Chunking

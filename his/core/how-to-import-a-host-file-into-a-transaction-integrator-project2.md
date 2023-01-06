@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 97283c56-06b1-4ad4-b5a8-7a3c2204a09d
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # How to Import a Host File into a Transaction Integrator Project

@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 2c58dff3-3491-4fea-a8ec-c062c2845fa4
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Snacfg TN5Session

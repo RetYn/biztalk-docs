@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 51fdedee-23e1-434b-87ae-24007cb3f322
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Protect Mainframe Security Credentials from Being Overridden

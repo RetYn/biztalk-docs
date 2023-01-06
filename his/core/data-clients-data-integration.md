@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 678a711b-1638-4d0b-83ac-66c61cbfbc46
 caps.latest.revision: 2
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Data Clients (Data Integration)

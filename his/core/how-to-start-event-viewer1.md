@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: c9d5a94f-e8f7-4e69-9cdb-54d725dd34e9
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # How to Start Event Viewer

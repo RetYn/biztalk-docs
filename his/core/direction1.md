@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: cfadf761-58f0-47d3-bfd4-aa81bba830c1
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Direction

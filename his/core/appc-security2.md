@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 5b3cc852-bcd1-4254-bb68-64beff6e9d34
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # APPC Security

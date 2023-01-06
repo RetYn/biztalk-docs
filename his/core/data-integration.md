@@ -6,7 +6,6 @@ ms.date: 01/04/2018
 ms.prod: "host-integration-server"
 ms.topic: "article"
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 

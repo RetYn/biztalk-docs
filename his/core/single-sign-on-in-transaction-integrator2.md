@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 6ef78e04-731a-409a-ba29-d9628d92f39f
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Use SSO with Transaction Integrator - HIS

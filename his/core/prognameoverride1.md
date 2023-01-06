@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 3baba322-65ca-45fa-9222-1d63793a334d
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # ProgNameOverride

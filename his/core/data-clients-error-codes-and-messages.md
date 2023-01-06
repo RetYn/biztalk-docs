@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: c8edb21c-c86a-46a3-824e-83683c921fdb
 caps.latest.revision: 2
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Data Clients Error Codes and Messages
