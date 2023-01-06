@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 8ffd7732-6980-443a-9a9f-9e058f4f17ac
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # How to Export COBOL from a TI Component

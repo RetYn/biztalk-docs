@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: fe589389-2607-423f-879d-314522d42028
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Snacfg APPCRLU

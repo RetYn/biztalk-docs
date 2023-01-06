@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 69933b5c-2184-4654-b1e1-6f951462a703
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Transaction Integrator User&#39;s Guide

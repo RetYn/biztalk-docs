@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 2d2fde76-6d80-4e28-9343-5abdb9fca5cf
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Common Service Verbs

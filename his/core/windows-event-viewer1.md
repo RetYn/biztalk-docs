@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: b8fed9c5-c995-4fba-a1be-23ee15545bc1
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Windows Event Viewer

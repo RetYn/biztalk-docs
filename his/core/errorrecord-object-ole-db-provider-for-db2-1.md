@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: d7da6ac3-80f9-4c81-8115-cdc2866babd4
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # ErrorRecord Object (OLE DB Provider for DB2)

@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: bca4c487-0374-47ab-ae52-72e5d50a9056
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # LPI Addresses

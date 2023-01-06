@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 4d3417d9-8738-4a25-9d4b-f3a719515615
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Issuing an LUA Verb

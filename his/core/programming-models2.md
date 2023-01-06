@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 021e2e82-f065-45e1-a10a-e540925bcecd
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Programming Models

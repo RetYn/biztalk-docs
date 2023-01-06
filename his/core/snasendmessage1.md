@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 643475a0-09ec-40f6-8220-c058937fb520
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # SNASendMessage

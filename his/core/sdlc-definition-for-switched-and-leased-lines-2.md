@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 66650eec-9ad6-4873-890e-4bddad1a51ee
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # SDLC Definition (for Switched and Leased Lines)

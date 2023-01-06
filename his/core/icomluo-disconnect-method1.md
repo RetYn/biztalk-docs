@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 573e60fd-7380-4326-9064-7a84636e53be
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # IcomLUO.Disconnect Method

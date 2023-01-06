@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: a19efa67-484c-4b89-a2ed-baa30e1a39d2
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Understanding Connectivity

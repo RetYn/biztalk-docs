@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 9be6e0e1-de26-40a9-90cf-ce3bcac0a1eb
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # MsSna_ConnectionUsingAdapter Class

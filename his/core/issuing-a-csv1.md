@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 522f14ee-ebea-4d1b-9b84-f7cb01df10a2
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Issuing a CSV

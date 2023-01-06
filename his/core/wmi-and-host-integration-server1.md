@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: f75145a7-84ce-4254-8d26-dcb3a86ff0a9
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # WMI and Host Integration Server

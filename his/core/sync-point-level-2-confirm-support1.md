@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: b81e05ca-5e55-475b-933b-b98a4f96f7b1
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Sync Point Level 2 Confirm Support

@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 6634aaef-6647-4454-8659-f030b53610ee
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Troubleshooting the ODBC Driver for DB2

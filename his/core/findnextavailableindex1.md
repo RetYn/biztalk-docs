@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: e1aad8a5-2844-4644-bc39-777c0721211d
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # FindNextAvailableIndex

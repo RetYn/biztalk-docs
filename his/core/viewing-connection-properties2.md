@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 03383aa6-f154-4bc6-b4ca-d840f9dce239
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Viewing Connection Properties

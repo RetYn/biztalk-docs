@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: a910c3fc-92b3-4e6a-8a30-c8c0acc39e44
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Protect the Client Proxy

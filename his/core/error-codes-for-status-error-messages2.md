@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 60194101-fcd5-4a6b-998b-d2bf675c8018
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Error Codes for Status-Error Messages

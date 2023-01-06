@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 9bcd62ab-de38-402e-a983-25cfe4ec8073
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # SPasswordChange.ullTimeStamp Field

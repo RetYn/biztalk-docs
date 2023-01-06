@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 4635c31e-7ac6-436a-b9c4-109fd2b2655f
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # bCreateService

@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: a9bbbaa5-a07a-491b-8539-3f6e5b257466
 caps.latest.revision: 5
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # BizTalk Adapter for DB2 Configuration - HIS

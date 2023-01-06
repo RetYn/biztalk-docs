@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: f35a2174-afbb-4ff0-9454-0b64f400f82a
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Buffer Header Format

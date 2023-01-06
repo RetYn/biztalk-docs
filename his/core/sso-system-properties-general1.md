@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 6f928899-2001-40cd-a49f-2b60fcafef52
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # SSO System Properties: General

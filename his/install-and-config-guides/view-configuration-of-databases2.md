@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 9d0745f3-3d1e-4f07-9b10-0b2bc223f30b
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # View Configuration of Databases

@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: b3663f1f-852b-4cd7-8727-fd936f8557a8
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # REOverride Guidelines

@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: e2d0060c-2693-4f6d-a43a-28516858d170
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Transaction Integrator Components

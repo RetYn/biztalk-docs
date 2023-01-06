@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 0224bb2f-fd5f-463f-a354-084804dbe64e
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Generating and Setting LUWIDs]

@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 71fa9f3e-1e76-4e5e-8d01-df324c09793e
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # CommandLineAdd

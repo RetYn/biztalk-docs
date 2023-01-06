@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: ede61d26-2849-42db-978d-a80657ed7249
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Deployment Strategies (3270)

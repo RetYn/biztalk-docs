@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: b91acc02-9cf4-45ca-9ab5-9b5a438e495e
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Open(PLU) Error Confirm

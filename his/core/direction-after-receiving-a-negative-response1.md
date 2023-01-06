@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 709d58f7-c8b8-4000-bdb3-305714bbf4e3
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Direction after Receiving a Negative Response

@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 555386e1-398e-4708-887e-b591f894fe84
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # ISSOConfigSS Members

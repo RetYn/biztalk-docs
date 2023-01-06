@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: efb44e38-abba-4dca-9afd-021d9bc9b196
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # How to Move a TI Component to Another Remote Environment

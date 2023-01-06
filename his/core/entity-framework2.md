@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 37cbd5b8-6cc7-4d91-8296-5a2a6a975b81
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Entity Framework

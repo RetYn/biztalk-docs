@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: b038f6f4-0703-491d-b1a8-0117d5da7b02
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # SNA Parallel Sessions

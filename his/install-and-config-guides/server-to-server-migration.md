@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: bc4b1593-9301-423e-b515-a6a59230e78f
 caps.latest.revision: 6
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Server to Server Migration

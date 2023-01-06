@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 906d22cc-9683-446a-a737-b66c34a187a5
 caps.latest.revision: 5
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Data Providers for Host Files Security and Protection

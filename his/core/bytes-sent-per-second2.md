@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: b8b4ad4b-a820-4614-88cb-fd7333ab759b
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Bytes Sent Per Second

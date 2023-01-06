@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 075bfac0-51be-4818-82bb-ed78248dfa00
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # SNA Device Driver Interface to Modem Status

@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 7c7bda50-aa14-461c-814b-43529140de38
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Trace File Names

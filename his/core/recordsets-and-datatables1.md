@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: bce4a959-5f8c-4e50-a572-07e863cf3f47
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Recordsets and Datatables

@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: ed95a40e-f26c-4132-a19b-11a3f2912328
 caps.latest.revision: 5
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Configuration of DRDA Service

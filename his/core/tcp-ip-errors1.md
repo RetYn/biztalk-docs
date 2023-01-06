@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: f2cd398c-d558-47ab-b111-d530a394fe5f
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # TCP/IP Errors

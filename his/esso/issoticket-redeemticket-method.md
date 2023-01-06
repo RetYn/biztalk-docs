@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 7ae88939-36b2-429d-aa3f-66a0f16c9226
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # ISSOTicket.RedeemTicket Method

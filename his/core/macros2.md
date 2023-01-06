@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 297e2ce8-b730-445a-b86b-605cc211474b
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Macros

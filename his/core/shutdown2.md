@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 284ea4a8-d59d-45a0-bb47-cc2ac0d7d25b
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Shutdown

@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 269fdad5-eb41-45f6-99fd-f1a6f3f0a403
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Managed Data Provider for Host Files Programmer&#39;s Guide

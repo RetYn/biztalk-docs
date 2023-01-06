@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: bc6058f2-39f5-4dc2-bed9-b2f7279c0066
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Support for ODBC Statement Attributes

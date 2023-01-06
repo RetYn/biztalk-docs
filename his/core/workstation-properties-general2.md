@@ -14,7 +14,6 @@ f1_keywords:
 ms.assetid: 6110c90b-3642-4a29-a0fe-01c462d9c5cd
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Workstation Properties: General

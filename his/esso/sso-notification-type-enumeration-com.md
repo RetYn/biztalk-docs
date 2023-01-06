@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 0de34815-36b9-4efb-88c9-5329e5fe4355
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # SSO_NOTIFICATION_TYPE Enumeration (COM)

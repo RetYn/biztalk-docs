@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 40961ec9-29f2-4083-b088-a220c950e686
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # SNAGetElement

@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 43229644-8680-4930-a3bb-67593c5db41b
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Icom3270.getOIA Method

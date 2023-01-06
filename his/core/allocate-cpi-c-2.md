@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 3381c8c2-6d01-4f89-b023-03fcc2e5c7a0
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Allocate (CPI-C)

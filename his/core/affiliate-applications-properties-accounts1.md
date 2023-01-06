@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: cce48726-a1ae-4226-9919-0dbe0614b7cb
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Affiliate Applications Properties: Accounts

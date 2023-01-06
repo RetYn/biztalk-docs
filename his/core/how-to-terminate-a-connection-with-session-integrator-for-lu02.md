@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 512a6db7-f025-4bcf-bdcd-28c2182a4920
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # How to Terminate a Connection with Session Integrator for LU0

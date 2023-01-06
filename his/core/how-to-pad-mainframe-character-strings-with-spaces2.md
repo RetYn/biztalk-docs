@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: b7c398ad-cdb5-486d-a08c-fc163533aa80
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # How to Pad Mainframe Character Strings with Spaces

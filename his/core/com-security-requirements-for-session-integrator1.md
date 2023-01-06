@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: ff94595f-c07d-4da4-b05c-d5c8801d075d
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # COM Security Requirements for Session Integrator

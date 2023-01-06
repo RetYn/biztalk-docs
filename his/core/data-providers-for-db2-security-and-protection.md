@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 14be5afc-f7c0-44b5-a9c9-80f0eccebe6b
 caps.latest.revision: 6
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Data Providers for DB2 Security and Protection

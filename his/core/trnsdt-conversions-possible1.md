@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 86cf22bc-fb26-49a0-866f-3ccfaa463d4b
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # TrnsDT Conversions Possible

@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 10936ed6-a32a-46ff-b3c2-326233dc2820
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # MsSna_TN5250Definition Class

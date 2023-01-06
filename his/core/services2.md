@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 188d7c7f-7862-413a-9c69-60635e941171
 caps.latest.revision: 2
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Services

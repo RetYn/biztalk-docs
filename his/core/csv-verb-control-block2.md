@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 7463292c-1751-4008-9e9e-729175ae317f
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # CSV Verb Control Block

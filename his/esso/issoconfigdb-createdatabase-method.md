@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 5ada766a-e127-44b3-8de2-7e2689d4fc19
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # ISSOConfigDB.CreateDatabase Method

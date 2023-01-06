@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 55ed1c18-b6fa-4fc2-9601-a93bf828302c
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Escon Channel Throughput

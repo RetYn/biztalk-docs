@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 52257831-10cb-4fdb-9ab8-0879366fd4ef
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Opening the LINLPI Connection

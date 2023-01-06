@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 96d7c400-23f2-4fd2-8c6c-b916ededf3cd
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Supported Conversational Model

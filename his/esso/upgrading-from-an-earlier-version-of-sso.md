@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 12c04ac5-c8f5-4d6c-ae2e-e5c479be27d2
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Upgrading from an Earlier Version of SSO
