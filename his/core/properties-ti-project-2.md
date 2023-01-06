@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 0fd92554-2ae7-42ec-9500-b4d8f13d1034
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Properties (TI Project)

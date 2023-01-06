@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 5a8d5a8d-ce69-4937-aa11-30babc39e92e
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # LU 0 to 3 Information

@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: ed52d680-0c79-4130-8d6d-093c92bac03e
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Creating an IP-DLC Connection

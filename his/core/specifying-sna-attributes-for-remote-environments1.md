@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: f57034bb-5b40-4b2c-81a0-fdef348a491b
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Specifying SNA Attributes for Remote Environments

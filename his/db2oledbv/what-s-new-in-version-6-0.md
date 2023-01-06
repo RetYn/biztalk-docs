@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 92f37b38-9b89-470d-9a94-6c8494eee3de
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # What's New in Version 6.0

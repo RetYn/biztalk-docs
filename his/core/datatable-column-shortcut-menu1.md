@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 7063fcc6-f953-44c7-8420-fa23a6909a61
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # DataTable Column Shortcut Menu

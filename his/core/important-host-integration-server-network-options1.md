@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: ac2f9398-2982-4fac-a164-9e22be001cce
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Important Host Integration Server Network Options

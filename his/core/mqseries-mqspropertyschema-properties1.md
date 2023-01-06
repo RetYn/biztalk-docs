@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 8225e869-60d3-425c-98ad-32937303764e
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # MQSeries.MQSPropertySchema Properties

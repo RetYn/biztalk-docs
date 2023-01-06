@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 2914ce6e-c2f6-4e65-80fc-5f0acb64dd1d
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # SNA Host Environments

@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: aec44f21-9e7b-4619-a1d4-0f5ab5eba9be
 caps.latest.revision: 7
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Installation Guide

@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 962d1db2-1ff9-4f3a-967b-4f6e601f2743
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Cancel_Conversation (CPI-C)

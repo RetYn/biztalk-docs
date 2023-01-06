@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 33185e69-d6a7-46d6-8db1-826483b58926
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Extract_TP_Name (CPI-C)

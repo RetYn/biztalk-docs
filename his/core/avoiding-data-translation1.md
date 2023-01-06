@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 419b2582-3f70-4c67-8ccd-695f351afb22
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Avoiding Data Translation

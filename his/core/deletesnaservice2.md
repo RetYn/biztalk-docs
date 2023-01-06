@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 928c9f30-a587-48ee-8a81-b8d167469c4b
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # DeleteSNAService

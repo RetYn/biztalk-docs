@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 58f8f586-0c20-4d85-9c21-1286039548c7
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # .NET Framework Library Nodes

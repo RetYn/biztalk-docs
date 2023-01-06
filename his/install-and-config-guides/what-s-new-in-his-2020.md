@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 6f50d11f-8026-48d8-a13b-5ebf86369222
 caps.latest.revision: 15
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # What's New in HIS 2020

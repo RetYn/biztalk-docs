@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: cad93bbc-f27b-4f8a-84d2-27787734f65a
 caps.latest.revision: 5
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # 3270 Emulation Programmer's Guide

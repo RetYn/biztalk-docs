@@ -13,7 +13,6 @@ f1_keywords:
 ms.assetid: e067d050-a262-4fe2-8939-23be8d6cca1a
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # 3270 LU Properties: Down Stream

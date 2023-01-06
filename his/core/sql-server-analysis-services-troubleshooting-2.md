@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 5ab57d20-657e-4c9a-83a7-75bb0c6816c1
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # SQL Server Analysis Services (Troubleshooting)

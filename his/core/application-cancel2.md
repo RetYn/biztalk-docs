@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 3ef71ed9-dde0-422b-8060-9e7c29687452
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Application CANCEL

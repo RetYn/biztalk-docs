@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 4c62b7c3-1dd3-40ec-9e19-98d812371d7b
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # LU Groups

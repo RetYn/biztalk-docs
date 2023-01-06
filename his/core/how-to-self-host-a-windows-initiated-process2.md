@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 56cdd275-074f-4e39-a35d-52d00e6cbecd
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # How to Self-Host a Windows-Initiated Process

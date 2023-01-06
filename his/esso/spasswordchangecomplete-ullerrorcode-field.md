@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: ad033908-536d-43fa-adec-5516a9d7b7e0
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # SPasswordChangeComplete.ullErrorCode Field

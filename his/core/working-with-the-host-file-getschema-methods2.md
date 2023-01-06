@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 0c7bd95a-6d88-4f1b-bb64-c6b894527065
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Working with the Host File GetSchema Methods

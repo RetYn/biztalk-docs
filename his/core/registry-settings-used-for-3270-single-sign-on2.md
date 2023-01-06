@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 65e0f7b2-15ad-48dc-92a5-a435f8289b48
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Registry Settings Used for 3270 Single Sign-On

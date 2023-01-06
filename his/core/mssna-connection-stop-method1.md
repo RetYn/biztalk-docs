@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: b46ff896-32b5-4312-b0db-adcb5fbe6f25
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # MsSna_Connection.Stop Method

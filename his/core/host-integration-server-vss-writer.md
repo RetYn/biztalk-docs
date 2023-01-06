@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: f8d3a7a1-997c-4b92-9ec4-c8ddd96e72b8
 caps.latest.revision: 2
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # HIS VSS Writer

@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 88f05591-1f9a-480e-a078-50ad10572e44
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Installing WMI on Host Integration Server

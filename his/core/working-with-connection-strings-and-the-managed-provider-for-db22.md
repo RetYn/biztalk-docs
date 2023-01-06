@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: c3a066cd-17d1-4053-b87c-a08ebd94d7fb
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Working with Connection Strings and the Managed Provider for DB2

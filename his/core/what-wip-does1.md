@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: bc2f9d7c-7fa6-4404-8c53-fe7112e35c07
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # What WIP Does

@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: b764d512-5a28-484b-baf5-429801d63bd2
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Screening Routers and Internet Firewalls

@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 28062aba-2c67-4666-983e-85caa6fa244b
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # How to Balance System Performance with Windows

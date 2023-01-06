@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 6cf07eea-7342-4b6d-afd2-2a30c662bfcc
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Configuring Application Encodings

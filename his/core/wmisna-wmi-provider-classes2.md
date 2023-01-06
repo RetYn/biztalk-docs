@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 42525c3e-64a6-432b-8e93-b8d44c3f7c3b
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # WMISNA WMI Provider Classes

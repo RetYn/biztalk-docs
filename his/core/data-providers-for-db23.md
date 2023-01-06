@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 207e697b-4f33-443f-a2b8-333e4ebfaa3a
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Configure Data Providers for DB2

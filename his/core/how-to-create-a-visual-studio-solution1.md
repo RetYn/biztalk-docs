@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: cbe9eb1f-b1b3-4492-ae2a-44a3ec1547f6
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # How to Create a Visual Studio Solution

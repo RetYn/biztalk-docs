@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: f8c02ab9-b64d-4fa7-90c9-9d6e80d74b32
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Sample VTAM Parameters Including CPNAME

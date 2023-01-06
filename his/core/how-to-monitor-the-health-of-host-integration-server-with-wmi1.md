@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 306ff837-74d0-4fe8-ac6a-a3419bf8640a
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # How to Monitor the Health of Host Integration Server with WMI

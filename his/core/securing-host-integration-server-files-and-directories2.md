@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 37f261e2-c09d-414e-9ce1-2da5233eff6e
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Securing Host Integration Server Files and Directories

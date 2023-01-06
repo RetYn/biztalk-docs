@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 601b69b7-1505-4557-897a-716e0e04504f
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # RUI_PURGE

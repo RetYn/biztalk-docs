@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 3fbf96a6-1702-468d-8d97-3d0398dda015
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Managing IP-DLC Link Services

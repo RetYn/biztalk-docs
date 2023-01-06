@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 48219650-9b11-48af-802c-df6266738ef7
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # How to Start the SNA Trace Utility from the Start Menu

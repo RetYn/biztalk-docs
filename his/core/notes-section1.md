@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 95611c38-7ebd-4e04-a154-700fcbfc2df7
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Notes Section

@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: ded1cb5d-8433-46dd-9ce0-d9ead39b75a9
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Display the Contents of a Configuration File

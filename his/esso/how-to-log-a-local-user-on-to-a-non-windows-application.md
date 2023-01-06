@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 53c62db8-3611-461a-a88d-1fc807ff2b7c
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # How to Log a Local User on to a Non-Windows Application

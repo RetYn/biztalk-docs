@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 83177f25-1d10-45a8-8d1f-754a5b1f3ccc
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Simplifying CPI-C Configuration (CPI-C)

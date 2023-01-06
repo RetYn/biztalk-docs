@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 553cad04-36ad-4bb8-ba9e-ad9f109e8058
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Configuring BizTalk Adapter for Host Applications

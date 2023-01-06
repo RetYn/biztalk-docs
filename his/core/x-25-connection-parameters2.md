@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 0c72c6d8-1d51-4a0b-92e8-f5c2883f277a
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # X.25 Connection Parameters

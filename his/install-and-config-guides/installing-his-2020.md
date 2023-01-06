@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 80c18554-aa15-463e-a139-13f25db7d571
 caps.latest.revision: 8
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "dougeby"
 ---
 

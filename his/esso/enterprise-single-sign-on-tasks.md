@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 31b4c729-411a-4a01-a7ca-92133231fc38
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Enterprise Single Sign-On Tasks

@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: a990a46f-86ea-4348-8151-286248c92de7
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # How to Retrieve Data

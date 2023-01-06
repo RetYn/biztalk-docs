@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 2c4d2d47-608d-4c82-9410-7ece1d1e2bbc
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Testing Connections with the 5250 Client

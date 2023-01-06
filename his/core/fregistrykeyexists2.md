@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: b33054a6-b908-49ce-b3cd-d007677fefc1
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # fRegistryKeyExists

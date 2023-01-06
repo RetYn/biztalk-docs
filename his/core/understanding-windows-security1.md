@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 3d41fe16-800d-4a87-b5d6-cdca0ec42d50
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Understanding Windows Security

@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 1c5119ef-316c-4f30-9839-66bb0b93348b
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Union Shortcut Menu

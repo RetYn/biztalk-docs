@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 5a4d6e82-5670-4b00-af5b-df70f40b94ea
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Password Sync Adapter Properties

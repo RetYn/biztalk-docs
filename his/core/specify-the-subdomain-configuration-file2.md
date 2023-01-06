@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 88a2ffa4-b4cd-4311-a4a1-ba9710a41c89
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Specify the Subdomain Configuration File

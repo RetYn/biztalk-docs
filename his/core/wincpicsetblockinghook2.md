@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 7fe5561a-cfa7-463a-8e48-6e78a10278d0
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # WinCPICSetBlockingHook

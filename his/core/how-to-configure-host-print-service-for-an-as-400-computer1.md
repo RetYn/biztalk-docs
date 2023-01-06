@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: afda3d92-e3e7-4d29-9f55-e903c60015a3
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # How to Configure Host Print Service for an AS/400 Computer

@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: eb9660dc-1138-4aea-a7f2-487211e338a8
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # WinAPPCSetBlockingHook

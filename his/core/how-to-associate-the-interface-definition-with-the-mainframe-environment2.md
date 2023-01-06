@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 92ac8403-4a60-4171-a9fc-99d9cc641aa2
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Associate the Interface Definition with the Mainframe Environment

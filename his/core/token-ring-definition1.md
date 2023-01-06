@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: a69fc542-6c4c-478e-8c9e-ad5d157dc9fb
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Token Ring Definition

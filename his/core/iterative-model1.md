@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 98198cdc-7b8b-47ef-841f-45138f564d6a
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Iterative Model

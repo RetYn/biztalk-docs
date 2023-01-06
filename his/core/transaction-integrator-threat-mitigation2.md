@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 68854feb-caab-488f-83f0-2da7d2e4cb01
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Transaction Integrator Threat Mitigation

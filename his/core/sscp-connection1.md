@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: f042db12-a645-4120-9f4e-1d9ac3975afb
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # SSCP Connection

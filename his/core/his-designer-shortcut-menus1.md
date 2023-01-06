@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: f8c8ee9a-87fb-4d5e-bbd2-b33511003724
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # HIS Designer Shortcut Menus

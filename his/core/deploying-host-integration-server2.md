@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 2e76bec2-2066-4edc-93fe-c87a5aa198a1
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Deploying Host Integration Server

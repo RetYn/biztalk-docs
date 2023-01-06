@@ -13,7 +13,6 @@ f1_keywords:
 ms.assetid: 12598563-cf28-4a73-b454-e0bca6ca5296
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # AS400 Definition Properties: General

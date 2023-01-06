@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 0a0de082-65a9-43a3-a7fe-4b94d46065d9
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # SNAGetLinkPerfArea

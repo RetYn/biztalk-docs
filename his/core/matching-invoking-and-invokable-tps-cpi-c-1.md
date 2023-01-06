@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: c82b86fe-b7a0-402b-a2e6-74b4827f017b
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Matching Invoking and Invokable TPs (CPI-C)

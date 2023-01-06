@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 42590b2e-b0d1-4bb0-b43b-8969d8a0a410
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Denying Access to Host Integration Server

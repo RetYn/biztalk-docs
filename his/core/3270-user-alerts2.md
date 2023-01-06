@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 091c1909-3f9c-4b68-b9e5-5058eb0a4797
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # 3270 User Alerts

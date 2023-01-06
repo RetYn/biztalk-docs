@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: ea005f21-ea44-4a24-81f8-dd1bbe71092d
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # OverrideSourceTP

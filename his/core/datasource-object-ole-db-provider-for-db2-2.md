@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 433d22ee-6632-438f-bd11-aac8240c9740
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # DataSource Object (OLE DB Provider for DB2)

@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: f1af8278-b071-4fb8-87b3-135c9eed145c
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # How to Create a 5250 Remote APPC LU

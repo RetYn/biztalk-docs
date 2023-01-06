@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 4bc6c55c-9d7d-49b3-848d-4f0148bebd0b
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Function 0x41: Set Event/Semaphore Handle

@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 41f8df23-bcbb-4917-9073-fac64b160aa7
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Option Set Support
