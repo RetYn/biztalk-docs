@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 8112926f-73fa-45b5-9972-020161401ada
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Asynchronous Call Completion

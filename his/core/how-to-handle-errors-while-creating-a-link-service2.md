@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 41b0ea53-dea1-497f-a0a9-0cd5d758d8a1
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # How to Handle Errors While Creating a Link Service

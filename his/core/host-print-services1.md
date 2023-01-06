@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: e735e63f-598b-4371-9655-708a8d92a90d
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Host Print Services

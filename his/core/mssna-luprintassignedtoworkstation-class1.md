@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 62522684-dfc0-4f5c-9dc8-9b26d50cc580
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # MsSna_LuPrintAssignedToWorkstation Class

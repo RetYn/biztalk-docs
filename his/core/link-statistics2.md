@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 7e0f2106-45d5-457a-8f73-cc34685dde38
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Link Statistics

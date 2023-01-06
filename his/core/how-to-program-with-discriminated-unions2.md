@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 5544ff73-7b3e-4e8f-a565-0b9147aca4a8
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # How to Program with Discriminated Unions

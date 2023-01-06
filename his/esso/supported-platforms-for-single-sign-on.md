@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: dd820320-c31d-41cb-8606-ad654958c0ee
 caps.latest.revision: 7
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Supported Platforms for Single Sign-On

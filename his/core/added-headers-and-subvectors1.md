@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: ec9e18e4-3375-43d9-a5fd-39f5c765332e
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Added Headers and Subvectors

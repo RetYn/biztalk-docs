@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: a2624d58-376d-4873-be97-4fa3867abcaf
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # 3270 Client

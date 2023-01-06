@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 905f7f73-289a-47f8-aed2-16212ccfcb2a
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # ISSOConfigDB.GetDBInfo Method

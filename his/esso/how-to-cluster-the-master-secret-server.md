@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 011e4b8a-27c8-44a7-85a5-f99e81877ec1
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # How to Cluster the Master Secret Server

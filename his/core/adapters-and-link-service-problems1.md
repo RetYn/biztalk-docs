@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: be128868-550c-4e71-b24c-041c8c330a1e
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Adapters and Link Service Problems

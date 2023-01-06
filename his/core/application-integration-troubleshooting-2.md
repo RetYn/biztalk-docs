@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 3f5a453a-87ef-4ead-8739-00fa30314895
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Application Integration (Troubleshooting)

@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 529cde95-b0aa-4ead-a717-23fb7fd84fdb
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Flush (CPI-C)

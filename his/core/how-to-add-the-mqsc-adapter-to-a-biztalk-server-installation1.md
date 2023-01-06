@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: d6220e81-5176-4588-92e9-67bf73d46067
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # How to Add the MQSC Adapter to a BizTalk Server Installation

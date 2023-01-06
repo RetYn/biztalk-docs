@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 1f9588f3-df01-48d6-9bd0-b47e8d7f309d
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Configuration of Session Integrator

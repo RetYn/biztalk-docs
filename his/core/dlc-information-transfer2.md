@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 50deaf5e-0150-4fba-9a5e-38aa1fa13d9c
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # DLC Information Transfer

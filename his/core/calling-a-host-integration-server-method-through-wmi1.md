@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 3f690bd6-ca88-451a-b3c0-baec2f094c82
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Calling a Host Integration Server Method through WMI

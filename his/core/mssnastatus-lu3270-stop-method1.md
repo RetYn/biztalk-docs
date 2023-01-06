@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 5bcfe083-1a6a-4736-87cb-ef813f4bd275
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # MsSnaStatus_Lu3270.Stop Method

@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 0f49395d-690f-4bdf-8e92-49276b258c3a
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Link Alerts for SDLC and Token Ring

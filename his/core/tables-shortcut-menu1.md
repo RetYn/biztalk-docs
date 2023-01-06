@@ -13,7 +13,6 @@ f1_keywords:
 ms.assetid: bd53f203-7e59-462e-9ee2-917a00beff51
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Tables Shortcut Menu

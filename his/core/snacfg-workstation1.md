@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 62ec8e5a-697d-45fb-8f4c-3be91aed6789
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Snacfg Workstation

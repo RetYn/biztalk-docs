@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 0f322599-53ad-4ba2-9169-badc646351ce
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # ISSOMapping.WindowsDomainName Property

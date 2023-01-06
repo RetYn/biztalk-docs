@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: b6d25db8-ab1f-4fcd-8091-5898607d82aa
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # USERID

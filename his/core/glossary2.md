@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 2de64458-169e-4051-8b4b-5aa6cab5d0f4
 caps.latest.revision: 5
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Glossary

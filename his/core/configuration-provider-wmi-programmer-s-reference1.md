@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 6dab1933-3550-4a88-a8e9-192615c43cbe
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Configuration Provider WMI Programmer&#39;s Reference

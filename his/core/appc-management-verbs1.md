@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: a8f2d680-7888-4762-b043-4a5131933017
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # APPC Management Verbs

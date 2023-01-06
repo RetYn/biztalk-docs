@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 8d5b1fbc-7b24-4533-8453-c5315faf0c7f
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Identifying Alerts from Local Logs Only

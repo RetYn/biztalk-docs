@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 7bb0ed1e-0438-48f7-96f6-0df779a6ae7f
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # LUA_VERB_RECORD

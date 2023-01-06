@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: a5e3f97d-c6f9-4d27-b77c-43e23206ffd3
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # How to Print a Component Description

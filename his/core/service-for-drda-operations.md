@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 53d92e63-f7be-4cfa-ad87-aa331a58ff63
 caps.latest.revision: 11
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Service for DRDA (Operations)

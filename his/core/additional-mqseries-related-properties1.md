@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: d74e1a48-ce67-49e8-9db7-f3ea6ab25406
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Additional MQSeries Related Properties

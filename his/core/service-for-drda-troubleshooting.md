@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: ad4570cc-9748-45aa-866e-7b54aacf67fe
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Service for DRDA Troubleshooting

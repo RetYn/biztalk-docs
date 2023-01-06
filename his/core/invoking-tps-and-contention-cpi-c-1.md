@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: f6564c8a-1930-4c42-aa94-46286f9e395d
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Invoking TPs and Contention (CPI-C)

@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 74294ecc-e763-48ae-8a23-e9ba5e6ff0d8
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Defining New Objects

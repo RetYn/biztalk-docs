@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 0cf49079-4398-458c-a3ac-ab4022172170
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # SNADIS Drivers Programmer&#39;s Reference

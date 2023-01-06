@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: c73c8d17-46c2-4c53-acd7-47611cf65514
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Copying and Pasting Displayed Information

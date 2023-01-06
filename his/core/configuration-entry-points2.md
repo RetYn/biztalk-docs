@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 8e135c56-c71b-41cc-a084-a8409da06609
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Configuration Entry Points

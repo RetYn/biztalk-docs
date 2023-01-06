@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 75c6bf12-7259-4010-bf77-de637e30914f
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Protect the MSHIS60_HIP Database and SQL Server Stored Procedures

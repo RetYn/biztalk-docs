@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 639cc2db-d4e7-4424-8a1c-68c09784dcfa
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Configuring DB2 for z-OS

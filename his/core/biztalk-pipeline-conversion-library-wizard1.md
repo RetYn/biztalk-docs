@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 45cbe75b-7b23-4704-9179-1b5da0d4cbbf
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # BizTalk Pipeline Conversion Library Wizard

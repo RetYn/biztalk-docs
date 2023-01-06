@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: a205b2d7-8922-4f7d-b8fd-f71098506ab7
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # External Computer Response Time

@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 76ee1b4c-b967-41fa-a458-2732d61126f4
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Sending or Receiving a File

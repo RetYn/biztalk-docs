@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: e12db95b-1ed2-4169-8327-14ceff9a18c4
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # SLI_STSN_ROUTINE

@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: a0b16406-3098-4e95-8b2f-d075dc579319
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Mainframe Connections with XIDs

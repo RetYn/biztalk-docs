@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: feec38d2-fd1c-4409-b383-2330a9a818d2
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Data Type Mapping to OLE DB Data Types

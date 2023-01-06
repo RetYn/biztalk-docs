@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 859def19-967a-4999-8b7c-0378d0a3cb68
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Send_Data (CPI-C)

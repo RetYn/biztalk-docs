@@ -13,7 +13,6 @@ f1_keywords:
 ms.assetid: 4ccd47be-df34-4e22-a748-dc92edbff933
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Configuring an IP-DLC Connection

@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 70cbb477-03ea-4d8d-8348-a7858a715089
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Mainframe Setup

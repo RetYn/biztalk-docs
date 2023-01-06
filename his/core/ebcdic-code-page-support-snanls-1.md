@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: cd02fb8e-68f8-4844-930f-518df5c99356
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # EBCDIC Code Page Support (SNANLS)

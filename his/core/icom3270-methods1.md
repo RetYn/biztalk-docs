@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: b28d466b-064d-4248-966f-433708c6011e
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Icom3270 Methods

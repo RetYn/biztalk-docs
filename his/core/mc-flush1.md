@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: f80a09af-fc65-4499-9dff-78a1826fc451
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # MC_FLUSH

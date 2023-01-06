@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 84d09b8c-e339-417d-a9ea-4109d9d6e845
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Adding Leading SO and Trailing SI Characters

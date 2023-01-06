@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: a139f512-5e5f-40df-814e-cff905ad7f89
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Host EBCDIC DBCS with TrnsDT

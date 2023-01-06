@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: aa56da55-c86a-4d3b-9aee-4a8095890c9e
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # APPC Verb Summary

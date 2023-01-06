@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 44f187a2-cb40-46b7-be45-654c336ea6e5
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Host EBCDIC Mixed SBCS and DBCS with TrnsDT

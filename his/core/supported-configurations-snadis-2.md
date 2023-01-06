@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 3fea51fd-b877-4cb2-ba67-7d01e9728344
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Supported Configurations (SNADIS)

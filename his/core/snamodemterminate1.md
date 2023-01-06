@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: fa4659ae-9379-4427-a53b-c32f00b68db9
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # SNAModemTerminate

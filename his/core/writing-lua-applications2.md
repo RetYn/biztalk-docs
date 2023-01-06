@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: d48cf08e-aa49-4ca4-9450-4ff6ec1c5e39
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Writing LUA Applications

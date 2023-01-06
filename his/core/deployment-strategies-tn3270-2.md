@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 003c2db3-ea52-4203-81a4-14fb1416e25e
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Deployment Strategies (TN3270)

@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 536cbfa2-741f-4d43-95b6-876a6b172c5b
 caps.latest.revision: 6
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # How to Use the ENTSSO Management Agent

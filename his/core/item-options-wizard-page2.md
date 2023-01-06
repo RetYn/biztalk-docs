@@ -13,7 +13,6 @@ f1_keywords:
 ms.assetid: 1533ad6a-2de6-430f-8752-3094a751fb4c
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Item Options Wizard Page

@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 154492cd-de16-4505-a5cc-ad85b242e7d1
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # TP Name Unique for Each TP (SNA)

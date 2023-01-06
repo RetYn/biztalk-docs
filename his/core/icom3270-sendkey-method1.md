@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: f161e0b6-080e-43f3-9f49-eaf014a31a89
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Icom3270.sendKey Method

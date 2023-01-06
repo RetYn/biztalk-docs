@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 41ceb93b-3ade-4660-9f01-12eae2841ae3
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # 5250 Client Status Line

@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 5f372c3b-1ee1-4440-8876-f9860a9fd471
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # DataRelationCollection

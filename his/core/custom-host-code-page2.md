@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 1fe73dc7-6d07-4854-9f49-5fa0a60ba7f5
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Custom Host Code Page

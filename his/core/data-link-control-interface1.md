@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: e573c41e-b75e-4d92-854b-11fa26f2a8e7
 caps.latest.revision: 3
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # Data Link Control Interface

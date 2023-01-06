@@ -11,7 +11,6 @@ ms.topic: "article"
 ms.assetid: 0873c0da-4de9-4dd4-a197-a56c8835cb7f
 caps.latest.revision: 4
 author: "christopherhouser"
-ms.author: "hisdocs"
 manager: "anneta"
 ---
 # MsSnaStatus_ServiceTN3270.Start Method
